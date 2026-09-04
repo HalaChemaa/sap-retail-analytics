@@ -1,0 +1,1160 @@
+plant_id,material_id,ever_stocked_out,country,region,channel,product_category,turnover_ratio
+AE10,P107319,True,United Arab Emirates,Middle East,Travel Retail,Bath & Body,1.032064128256513
+AE10,P109911,False,United Arab Emirates,Middle East,Travel Retail,Makeup,1.0
+AE10,P12790,True,United Arab Emirates,Middle East,Travel Retail,Makeup,1.0092307692307692
+AE10,P152203,True,United Arab Emirates,Middle East,Travel Retail,Bath & Body,0.9959266802443992
+AE10,P162554,True,United Arab Emirates,Middle East,Travel Retail,Bath & Body,1.0696202531645569
+AE10,P229406,True,United Arab Emirates,Middle East,Travel Retail,Makeup,1.0047281323877069
+AE10,P269707,True,United Arab Emirates,Middle East,Travel Retail,Hair,0.9841897233201581
+AE10,P294018,True,United Arab Emirates,Middle East,Travel Retail,Skincare,1.0160857908847185
+AE10,P296439,True,United Arab Emirates,Middle East,Travel Retail,Hair,1.0309523809523808
+AE10,P378111,False,United Arab Emirates,Middle East,Travel Retail,Makeup,0.9900990099009901
+AE10,P379995,False,United Arab Emirates,Middle East,Travel Retail,Skincare,0.9942196531791907
+AE10,P382378,True,United Arab Emirates,Middle East,Travel Retail,Makeup,1.0125
+AE10,P383054,False,United Arab Emirates,Middle East,Travel Retail,Skincare,0.9702380952380952
+AE10,P387261,True,United Arab Emirates,Middle East,Travel Retail,Skincare,0.9514925373134329
+AE10,P387564,True,United Arab Emirates,Middle East,Travel Retail,Fragrance,1.0190114068441065
+AE10,P389524,False,United Arab Emirates,Middle East,Travel Retail,Hair,0.9736842105263158
+AE10,P392004,True,United Arab Emirates,Middle East,Travel Retail,Skincare,0.9477124183006536
+AE10,P395532,True,United Arab Emirates,Middle East,Travel Retail,Makeup,0.9900990099009901
+AE10,P397465,True,United Arab Emirates,Middle East,Travel Retail,Skincare,0.9835616438356164
+AE10,P397627,True,United Arab Emirates,Middle East,Travel Retail,Skincare,1.0206489675516224
+AE10,P399503,True,United Arab Emirates,Middle East,Travel Retail,Makeup,1.0141342756183747
+AE10,P401771,True,United Arab Emirates,Middle East,Travel Retail,Makeup,1.0032258064516129
+AE10,P405269,False,United Arab Emirates,Middle East,Travel Retail,Fragrance,0.9530201342281879
+AE10,P405602,False,United Arab Emirates,Middle East,Travel Retail,Makeup,0.9695121951219512
+AE10,P408218,False,United Arab Emirates,Middle East,Travel Retail,Makeup,0.9667250437828371
+AE10,P409988,True,United Arab Emirates,Middle East,Travel Retail,Makeup,1.02504816955684
+AE10,P413326,False,United Arab Emirates,Middle East,Travel Retail,Skincare,1.0221729490022173
+AE10,P413684,True,United Arab Emirates,Middle East,Travel Retail,Hair,1.0506329113924051
+AE10,P416725,False,United Arab Emirates,Middle East,Travel Retail,Skincare,0.8709677419354839
+AE10,P416825,True,United Arab Emirates,Middle East,Travel Retail,Skincare,0.9789473684210527
+AE10,P417192,False,United Arab Emirates,Middle East,Travel Retail,Fragrance,0.8842105263157894
+AE10,P417312,True,United Arab Emirates,Middle East,Travel Retail,Fragrance,1.041782729805014
+AE10,P418122,False,United Arab Emirates,Middle East,Travel Retail,Fragrance,0.9957983193277311
+AE10,P420699,True,United Arab Emirates,Middle East,Travel Retail,Skincare,0.9973118279569892
+AE10,P428222,False,United Arab Emirates,Middle East,Travel Retail,Hair,1.022670025188917
+AE10,P428636,True,United Arab Emirates,Middle East,Travel Retail,Skincare,1.0040080160320641
+AE10,P429675,True,United Arab Emirates,Middle East,Travel Retail,Skincare,0.9710743801652892
+AE10,P429952,True,United Arab Emirates,Middle East,Travel Retail,Skincare,0.9849624060150376
+AE10,P430910,True,United Arab Emirates,Middle East,Travel Retail,Fragrance,0.9556962025316456
+AE10,P431511,True,United Arab Emirates,Middle East,Travel Retail,Makeup,1.0498812351543942
+AE10,P432045,True,United Arab Emirates,Middle East,Travel Retail,Skincare,0.9603960396039604
+AE10,P432239,True,United Arab Emirates,Middle East,Travel Retail,Skincare,1.0217391304347827
+AE10,P432863,True,United Arab Emirates,Middle East,Travel Retail,Makeup,0.9802371541501976
+AE10,P434399,True,United Arab Emirates,Middle East,Travel Retail,Hair,1.0368421052631578
+AE10,P434410,True,United Arab Emirates,Middle East,Travel Retail,Hair,0.9859550561797753
+AE10,P434440,True,United Arab Emirates,Middle East,Travel Retail,Hair,1.0321428571428573
+AE10,P435342,True,United Arab Emirates,Middle East,Travel Retail,Fragrance,0.9953917050691244
+AE10,P436757,False,United Arab Emirates,Middle East,Travel Retail,Bath & Body,0.96045197740113
+AE10,P439672,True,United Arab Emirates,Middle East,Travel Retail,Skincare,0.9725609756097561
+AE10,P440305,True,United Arab Emirates,Middle East,Travel Retail,Skincare,0.9789719626168224
+AE10,P441329,True,United Arab Emirates,Middle East,Travel Retail,Fragrance,0.9137931034482759
+AE10,P442742,False,United Arab Emirates,Middle East,Travel Retail,Skincare,1.0076628352490422
+AE10,P443834,True,United Arab Emirates,Middle East,Travel Retail,Skincare,1.037593984962406
+AE10,P444990,False,United Arab Emirates,Middle East,Travel Retail,Skincare,1.03
+AE10,P446816,False,United Arab Emirates,Middle East,Travel Retail,Makeup,1.0026737967914439
+AE10,P448200,False,United Arab Emirates,Middle East,Travel Retail,Skincare,0.9067357512953368
+AE10,P448730,True,United Arab Emirates,Middle East,Travel Retail,Hair,1.0034965034965035
+AE10,P450720,False,United Arab Emirates,Middle East,Travel Retail,Makeup,0.9866156787762906
+AE10,P451225,False,United Arab Emirates,Middle East,Travel Retail,Makeup,0.9967105263157895
+AE10,P453929,True,United Arab Emirates,Middle East,Travel Retail,Skincare,1.0253623188405796
+AE10,P454018,True,United Arab Emirates,Middle East,Travel Retail,Skincare,1.055232558139535
+AE10,P454083,False,United Arab Emirates,Middle East,Travel Retail,Bath & Body,0.9366197183098591
+AE10,P454941,True,United Arab Emirates,Middle East,Travel Retail,Makeup,1.0057803468208093
+AE10,P455321,False,United Arab Emirates,Middle East,Travel Retail,Makeup,1.033175355450237
+AE10,P455339,True,United Arab Emirates,Middle East,Travel Retail,Skincare,1.0447368421052632
+AE10,P455418,False,United Arab Emirates,Middle East,Travel Retail,Makeup,1.0
+AE10,P456006,False,United Arab Emirates,Middle East,Travel Retail,Makeup,1.0
+AE10,P456007,True,United Arab Emirates,Middle East,Travel Retail,Makeup,1.0
+AE10,P456975,False,United Arab Emirates,Middle East,Travel Retail,Fragrance,0.9914529914529915
+AE10,P457429,True,United Arab Emirates,Middle East,Travel Retail,Makeup,1.0244444444444445
+AE10,P457458,True,United Arab Emirates,Middle East,Travel Retail,Makeup,0.9888682745825603
+AE10,P457512,False,United Arab Emirates,Middle East,Travel Retail,Skincare,1.0381944444444444
+AE10,P458630,True,United Arab Emirates,Middle East,Travel Retail,Fragrance,0.9907834101382489
+AE10,P459301,True,United Arab Emirates,Middle East,Travel Retail,Skincare,0.9278350515463918
+AE10,P461185,True,United Arab Emirates,Middle East,Travel Retail,Fragrance,0.9979338842975206
+AE10,P461451,True,United Arab Emirates,Middle East,Travel Retail,Skincare,1.0047169811320755
+AE10,P461636,False,United Arab Emirates,Middle East,Travel Retail,Hair,0.975
+AE10,P462387,True,United Arab Emirates,Middle East,Travel Retail,Hair,0.9855072463768116
+AE10,P462417,True,United Arab Emirates,Middle East,Travel Retail,Fragrance,0.9718875502008032
+AE10,P463476,False,United Arab Emirates,Middle East,Travel Retail,Fragrance,1.03125
+AE10,P466426,True,United Arab Emirates,Middle East,Travel Retail,Bath & Body,1.0746887966804979
+AE10,P467038,True,United Arab Emirates,Middle East,Travel Retail,Skincare,0.9734982332155477
+AE10,P467120,True,United Arab Emirates,Middle East,Travel Retail,Skincare,1.0360360360360361
+AE10,P467123,True,United Arab Emirates,Middle East,Travel Retail,Skincare,0.985207100591716
+AE10,P467944,False,United Arab Emirates,Middle East,Travel Retail,Fragrance,1.021551724137931
+AE10,P467973,False,United Arab Emirates,Middle East,Travel Retail,Skincare,0.9317269076305221
+AE10,P468161,True,United Arab Emirates,Middle East,Travel Retail,Bath & Body,0.9792284866468842
+AE10,P468353,True,United Arab Emirates,Middle East,Travel Retail,Makeup,1.0360824742268042
+AE10,P469195,True,United Arab Emirates,Middle East,Travel Retail,Hair,1.0276497695852536
+AE10,P469439,False,United Arab Emirates,Middle East,Travel Retail,Skincare,1.0234375
+AE10,P469440,True,United Arab Emirates,Middle East,Travel Retail,Hair,1.0112994350282485
+AE10,P469828,True,United Arab Emirates,Middle East,Travel Retail,Fragrance,0.9640287769784173
+AE10,P470025,False,United Arab Emirates,Middle East,Travel Retail,Makeup,0.9959839357429718
+AE10,P470246,False,United Arab Emirates,Middle East,Travel Retail,Skincare,0.9223300970873787
+AE10,P470525,True,United Arab Emirates,Middle East,Travel Retail,Fragrance,1.032640949554896
+AE10,P470542,False,United Arab Emirates,Middle East,Travel Retail,Makeup,0.968503937007874
+AE10,P471101,True,United Arab Emirates,Middle East,Travel Retail,Skincare,1.0
+AE10,P471226,True,United Arab Emirates,Middle East,Travel Retail,Skincare,0.9768211920529801
+AE10,P471242,True,United Arab Emirates,Middle East,Travel Retail,Makeup,0.950207468879668
+AE10,P472065,True,United Arab Emirates,Middle East,Travel Retail,Makeup,1.003883495145631
+AE10,P472317,False,United Arab Emirates,Middle East,Travel Retail,Makeup,0.9956331877729258
+AE10,P472817,False,United Arab Emirates,Middle East,Travel Retail,Makeup,0.9369747899159664
+AE10,P473145,False,United Arab Emirates,Middle East,Travel Retail,Makeup,0.9897260273972602
+AE10,P473185,True,United Arab Emirates,Middle East,Travel Retail,Skincare,0.9299363057324841
+AE10,P473260,True,United Arab Emirates,Middle East,Travel Retail,Hair,0.9947780678851175
+AE10,P474942,False,United Arab Emirates,Middle East,Travel Retail,Skincare,0.9832402234636871
+AE10,P476011,True,United Arab Emirates,Middle East,Travel Retail,Makeup,1.0222772277227723
+AE10,P476428,True,United Arab Emirates,Middle East,Travel Retail,Skincare,0.9706744868035191
+AE10,P476430,True,United Arab Emirates,Middle East,Travel Retail,Bath & Body,0.976897689768977
+AE10,P476550,False,United Arab Emirates,Middle East,Travel Retail,Makeup,1.0182291666666667
+AE10,P476671,True,United Arab Emirates,Middle East,Travel Retail,Bath & Body,1.0180878552971577
+AE10,P476690,False,United Arab Emirates,Middle East,Travel Retail,Makeup,0.9731343283582089
+AE10,P476697,True,United Arab Emirates,Middle East,Travel Retail,Makeup,0.9693877551020408
+AE10,P476865,False,United Arab Emirates,Middle East,Travel Retail,Fragrance,0.9083333333333333
+AE10,P477168,False,United Arab Emirates,Middle East,Travel Retail,Makeup,1.033003300330033
+AE10,P477741,True,United Arab Emirates,Middle East,Travel Retail,Hair,1.0934256055363323
+AE10,P477822,True,United Arab Emirates,Middle East,Travel Retail,Hair,1.0176470588235293
+AE10,P479688,True,United Arab Emirates,Middle East,Travel Retail,Skincare,1.002008032128514
+AE10,P479732,True,United Arab Emirates,Middle East,Travel Retail,Skincare,1.043554006968641
+AE10,P479829,True,United Arab Emirates,Middle East,Travel Retail,Hair,1.0
+AE10,P479830,False,United Arab Emirates,Middle East,Travel Retail,Hair,1.0
+AE10,P479969,False,United Arab Emirates,Middle East,Travel Retail,Hair,1.0168674698795181
+AE10,P480152,False,United Arab Emirates,Middle East,Travel Retail,Hair,0.9741379310344828
+AE10,P480636,True,United Arab Emirates,Middle East,Travel Retail,Hair,1.0204778156996588
+AE10,P481141,False,United Arab Emirates,Middle East,Travel Retail,Hair,1.0107142857142857
+AE10,P481348,False,United Arab Emirates,Middle East,Travel Retail,Skincare,0.9181286549707602
+AE10,P481370,True,United Arab Emirates,Middle East,Travel Retail,Makeup,0.9929245283018868
+AE10,P481396,False,United Arab Emirates,Middle East,Travel Retail,Makeup,1.0287610619469028
+AE10,P482694,False,United Arab Emirates,Middle East,Travel Retail,Skincare,0.9906832298136646
+AE10,P482755,False,United Arab Emirates,Middle East,Travel Retail,Skincare,0.9873417721518988
+AE10,P483474,False,United Arab Emirates,Middle East,Travel Retail,Makeup,1.02803738317757
+AE10,P483654,True,United Arab Emirates,Middle East,Travel Retail,Makeup,1.0434782608695652
+AE10,P483678,True,United Arab Emirates,Middle East,Travel Retail,Fragrance,0.9817351598173516
+AE10,P483706,True,United Arab Emirates,Middle East,Travel Retail,Fragrance,0.9480968858131488
+AE10,P484052,True,United Arab Emirates,Middle East,Travel Retail,Bath & Body,0.9903846153846154
+AE10,P49848448,True,United Arab Emirates,Middle East,Travel Retail,Makeup,1.033167495854063
+AE10,P500256,False,United Arab Emirates,Middle East,Travel Retail,Skincare,1.0045871559633028
+AE10,P500445,True,United Arab Emirates,Middle East,Travel Retail,Skincare,0.9945945945945946
+AE10,P500992,True,United Arab Emirates,Middle East,Travel Retail,Makeup,1.0207792207792208
+AE10,P501153,False,United Arab Emirates,Middle East,Travel Retail,Skincare,0.9885714285714285
+AE10,P501284,True,United Arab Emirates,Middle East,Travel Retail,Makeup,1.0198019801980198
+AE10,P501360,False,United Arab Emirates,Middle East,Travel Retail,Fragrance,1.0104529616724738
+AE10,P501435,True,United Arab Emirates,Middle East,Travel Retail,Makeup,0.9750778816199377
+AE10,P501516,False,United Arab Emirates,Middle East,Travel Retail,Makeup,0.9501915708812261
+AE10,P501696,True,United Arab Emirates,Middle East,Travel Retail,Fragrance,1.0035714285714286
+AE10,P501697,True,United Arab Emirates,Middle East,Travel Retail,Fragrance,0.9543726235741445
+AE10,P501721,True,United Arab Emirates,Middle East,Travel Retail,Hair,0.9950738916256158
+AE10,P501751,False,United Arab Emirates,Middle East,Travel Retail,Skincare,0.9553571428571429
+AE10,P502068,True,United Arab Emirates,Middle East,Travel Retail,Hair,0.977728285077951
+AE10,P502185,False,United Arab Emirates,Middle East,Travel Retail,Makeup,1.0048661800486618
+AE10,P502186,False,United Arab Emirates,Middle East,Travel Retail,Skincare,0.9273504273504274
+AE10,P502252,False,United Arab Emirates,Middle East,Travel Retail,Hair,0.9318181818181818
+AE10,P502289,True,United Arab Emirates,Middle East,Travel Retail,Makeup,1.040909090909091
+AE10,P502866,True,United Arab Emirates,Middle East,Travel Retail,Makeup,0.9981132075471698
+AE10,P503762,True,United Arab Emirates,Middle East,Travel Retail,Makeup,0.9811320754716981
+AE10,P503815,False,United Arab Emirates,Middle East,Travel Retail,Fragrance,0.8857142857142857
+AE10,P503857,True,United Arab Emirates,Middle East,Travel Retail,Fragrance,0.9779411764705882
+AE10,P504044,False,United Arab Emirates,Middle East,Travel Retail,Skincare,0.9709090909090909
+AE10,P504054,True,United Arab Emirates,Middle East,Travel Retail,Bath & Body,0.9764150943396226
+AE10,P504064,True,United Arab Emirates,Middle East,Travel Retail,Skincare,0.9800399201596807
+AE10,P504159,False,United Arab Emirates,Middle East,Travel Retail,Bath & Body,0.9808612440191388
+AE10,P504187,False,United Arab Emirates,Middle East,Travel Retail,Makeup,1.0062893081761006
+AE10,P504285,False,United Arab Emirates,Middle East,Travel Retail,Fragrance,0.9172413793103448
+AE10,P504364,True,United Arab Emirates,Middle East,Travel Retail,Fragrance,0.9921465968586387
+AE10,P504453,True,United Arab Emirates,Middle East,Travel Retail,Hair,0.9519230769230769
+AE10,P504519,True,United Arab Emirates,Middle East,Travel Retail,Bath & Body,0.9701492537313433
+AE10,P504789,True,United Arab Emirates,Middle East,Travel Retail,Makeup,0.9820717131474104
+AE10,P504794,False,United Arab Emirates,Middle East,Travel Retail,Skincare,0.9545454545454546
+AE10,P504841,True,United Arab Emirates,Middle East,Travel Retail,Hair,0.9904458598726115
+AE10,P504849,True,United Arab Emirates,Middle East,Travel Retail,Skincare,0.9625
+AE10,P505250,False,United Arab Emirates,Middle East,Travel Retail,Makeup,0.9615384615384616
+AE10,P505463,False,United Arab Emirates,Middle East,Travel Retail,Fragrance,0.7611940298507462
+AE10,P6463,True,United Arab Emirates,Middle East,Travel Retail,Fragrance,1.0236220472440944
+AE10,P76000,False,United Arab Emirates,Middle East,Travel Retail,Fragrance,0.9588014981273408
+AE10,P7844,False,United Arab Emirates,Middle East,Travel Retail,Bath & Body,0.9292307692307692
+AE10,P91627362,False,United Arab Emirates,Middle East,Travel Retail,Skincare,1.0068181818181818
+DE10,P107319,True,Germany,Europe,Retail,Bath & Body,1.032064128256513
+DE10,P109911,True,Germany,Europe,Retail,Makeup,1.0
+DE10,P12790,True,Germany,Europe,Retail,Makeup,1.0092307692307692
+DE10,P152203,True,Germany,Europe,Retail,Bath & Body,0.9959266802443992
+DE10,P162554,True,Germany,Europe,Retail,Bath & Body,1.0696202531645569
+DE10,P183916,True,Germany,Europe,Retail,Makeup,1.0277777777777777
+DE10,P229406,True,Germany,Europe,Retail,Makeup,1.0047281323877069
+DE10,P269707,False,Germany,Europe,Retail,Hair,0.9841897233201581
+DE10,P294018,True,Germany,Europe,Retail,Skincare,1.0160857908847185
+DE10,P296439,False,Germany,Europe,Retail,Hair,1.0309523809523808
+DE10,P34402,True,Germany,Europe,Retail,Skincare,1.033210332103321
+DE10,P375534,True,Germany,Europe,Retail,Skincare,1.048582995951417
+DE10,P375938,False,Germany,Europe,Retail,Fragrance,0.9565217391304348
+DE10,P378111,True,Germany,Europe,Retail,Makeup,0.9900990099009901
+DE10,P382378,True,Germany,Europe,Retail,Makeup,1.0125
+DE10,P383054,True,Germany,Europe,Retail,Skincare,0.9702380952380952
+DE10,P387261,True,Germany,Europe,Retail,Skincare,0.9514925373134329
+DE10,P387564,True,Germany,Europe,Retail,Fragrance,1.0190114068441065
+DE10,P389524,False,Germany,Europe,Retail,Hair,0.9736842105263158
+DE10,P392004,True,Germany,Europe,Retail,Skincare,0.9477124183006536
+DE10,P395532,True,Germany,Europe,Retail,Makeup,0.9900990099009901
+DE10,P397465,True,Germany,Europe,Retail,Skincare,0.9835616438356164
+DE10,P397627,True,Germany,Europe,Retail,Skincare,1.0206489675516224
+DE10,P399503,True,Germany,Europe,Retail,Makeup,1.0141342756183747
+DE10,P401771,True,Germany,Europe,Retail,Makeup,1.0032258064516129
+DE10,P405269,True,Germany,Europe,Retail,Fragrance,0.9530201342281879
+DE10,P405602,True,Germany,Europe,Retail,Makeup,0.9695121951219512
+DE10,P408218,True,Germany,Europe,Retail,Makeup,0.9667250437828371
+DE10,P409988,True,Germany,Europe,Retail,Makeup,1.02504816955684
+DE10,P416725,False,Germany,Europe,Retail,Skincare,0.8709677419354839
+DE10,P416825,False,Germany,Europe,Retail,Skincare,0.9789473684210527
+DE10,P417192,False,Germany,Europe,Retail,Fragrance,0.8842105263157894
+DE10,P417312,True,Germany,Europe,Retail,Fragrance,1.041782729805014
+DE10,P418122,True,Germany,Europe,Retail,Fragrance,0.9957983193277311
+DE10,P420019,True,Germany,Europe,Retail,Makeup,0.9922178988326849
+DE10,P420699,True,Germany,Europe,Retail,Skincare,0.9973118279569892
+DE10,P422275,True,Germany,Europe,Retail,Hair,0.9926470588235294
+DE10,P427393,False,Germany,Europe,Retail,Skincare,0.9943661971830986
+DE10,P428636,True,Germany,Europe,Retail,Skincare,1.0040080160320641
+DE10,P429554,False,Germany,Europe,Retail,Fragrance,0.9746376811594203
+DE10,P429621,False,Germany,Europe,Retail,Fragrance,0.9811320754716981
+DE10,P429675,True,Germany,Europe,Retail,Skincare,0.9710743801652892
+DE10,P429952,True,Germany,Europe,Retail,Skincare,0.9849624060150376
+DE10,P430910,True,Germany,Europe,Retail,Fragrance,0.9556962025316456
+DE10,P431511,True,Germany,Europe,Retail,Makeup,1.0498812351543942
+DE10,P432045,False,Germany,Europe,Retail,Skincare,0.9603960396039604
+DE10,P433125,True,Germany,Europe,Retail,Makeup,1.007168458781362
+DE10,P434399,False,Germany,Europe,Retail,Hair,1.0368421052631578
+DE10,P434410,False,Germany,Europe,Retail,Hair,0.9859550561797753
+DE10,P436757,False,Germany,Europe,Retail,Bath & Body,0.96045197740113
+DE10,P439406,False,Germany,Europe,Retail,Fragrance,0.9363295880149812
+DE10,P439672,True,Germany,Europe,Retail,Skincare,0.9725609756097561
+DE10,P440305,True,Germany,Europe,Retail,Skincare,0.9789719626168224
+DE10,P441329,True,Germany,Europe,Retail,Fragrance,0.9137931034482759
+DE10,P443834,True,Germany,Europe,Retail,Skincare,1.037593984962406
+DE10,P444990,True,Germany,Europe,Retail,Skincare,1.03
+DE10,P446816,True,Germany,Europe,Retail,Makeup,1.0026737967914439
+DE10,P448200,True,Germany,Europe,Retail,Skincare,0.9067357512953368
+DE10,P448730,True,Germany,Europe,Retail,Hair,1.0034965034965035
+DE10,P450720,False,Germany,Europe,Retail,Makeup,0.9866156787762906
+DE10,P451225,True,Germany,Europe,Retail,Makeup,0.9967105263157895
+DE10,P453929,False,Germany,Europe,Retail,Skincare,1.0253623188405796
+DE10,P454083,False,Germany,Europe,Retail,Bath & Body,0.9366197183098591
+DE10,P454941,False,Germany,Europe,Retail,Makeup,1.0057803468208093
+DE10,P455339,True,Germany,Europe,Retail,Skincare,1.0447368421052632
+DE10,P455418,True,Germany,Europe,Retail,Makeup,1.0
+DE10,P456006,True,Germany,Europe,Retail,Makeup,1.0
+DE10,P456007,True,Germany,Europe,Retail,Makeup,1.0
+DE10,P456975,True,Germany,Europe,Retail,Fragrance,0.9914529914529915
+DE10,P457429,True,Germany,Europe,Retail,Makeup,1.0244444444444445
+DE10,P457458,True,Germany,Europe,Retail,Makeup,0.9888682745825603
+DE10,P457512,True,Germany,Europe,Retail,Skincare,1.0381944444444444
+DE10,P458630,True,Germany,Europe,Retail,Fragrance,0.9907834101382489
+DE10,P461185,True,Germany,Europe,Retail,Fragrance,0.9979338842975206
+DE10,P461451,False,Germany,Europe,Retail,Skincare,1.0047169811320755
+DE10,P461636,False,Germany,Europe,Retail,Hair,0.975
+DE10,P462417,False,Germany,Europe,Retail,Fragrance,0.9718875502008032
+DE10,P46587789,True,Germany,Europe,Retail,Makeup,1.011111111111111
+DE10,P466426,True,Germany,Europe,Retail,Bath & Body,1.0746887966804979
+DE10,P467038,True,Germany,Europe,Retail,Skincare,0.9734982332155477
+DE10,P467120,True,Germany,Europe,Retail,Skincare,1.0360360360360361
+DE10,P467123,True,Germany,Europe,Retail,Skincare,0.985207100591716
+DE10,P467944,True,Germany,Europe,Retail,Fragrance,1.021551724137931
+DE10,P468161,False,Germany,Europe,Retail,Bath & Body,0.9792284866468842
+DE10,P468353,True,Germany,Europe,Retail,Makeup,1.0360824742268042
+DE10,P469195,False,Germany,Europe,Retail,Hair,1.0276497695852536
+DE10,P469197,True,Germany,Europe,Retail,Fragrance,0.9907692307692307
+DE10,P469439,True,Germany,Europe,Retail,Skincare,1.0234375
+DE10,P469440,True,Germany,Europe,Retail,Hair,1.0112994350282485
+DE10,P469828,True,Germany,Europe,Retail,Fragrance,0.9640287769784173
+DE10,P470246,True,Germany,Europe,Retail,Skincare,0.9223300970873787
+DE10,P470510,True,Germany,Europe,Retail,Skincare,0.9561752988047809
+DE10,P470525,True,Germany,Europe,Retail,Fragrance,1.032640949554896
+DE10,P470542,False,Germany,Europe,Retail,Makeup,0.968503937007874
+DE10,P471009,True,Germany,Europe,Retail,Skincare,0.977491961414791
+DE10,P471046,False,Germany,Europe,Retail,Skincare,0.989010989010989
+DE10,P471076,False,Germany,Europe,Retail,Makeup,1.0
+DE10,P471101,True,Germany,Europe,Retail,Skincare,1.0
+DE10,P471226,False,Germany,Europe,Retail,Skincare,0.9768211920529801
+DE10,P472044,True,Germany,Europe,Retail,Hair,0.9646643109540636
+DE10,P472065,True,Germany,Europe,Retail,Makeup,1.003883495145631
+DE10,P472317,True,Germany,Europe,Retail,Makeup,0.9956331877729258
+DE10,P472817,False,Germany,Europe,Retail,Makeup,0.9369747899159664
+DE10,P473145,False,Germany,Europe,Retail,Makeup,0.9897260273972602
+DE10,P473260,True,Germany,Europe,Retail,Hair,0.9947780678851175
+DE10,P474942,False,Germany,Europe,Retail,Skincare,0.9832402234636871
+DE10,P475118,True,Germany,Europe,Retail,Makeup,0.9752475247524752
+DE10,P475951,True,Germany,Europe,Retail,Skincare,1.0604395604395604
+DE10,P475981,True,Germany,Europe,Retail,Hair,1.0050632911392405
+DE10,P476430,True,Germany,Europe,Retail,Bath & Body,0.976897689768977
+DE10,P476550,True,Germany,Europe,Retail,Makeup,1.0182291666666667
+DE10,P476671,True,Germany,Europe,Retail,Bath & Body,1.0180878552971577
+DE10,P476697,True,Germany,Europe,Retail,Makeup,0.9693877551020408
+DE10,P477168,True,Germany,Europe,Retail,Makeup,1.033003300330033
+DE10,P477741,True,Germany,Europe,Retail,Hair,1.0934256055363323
+DE10,P477822,True,Germany,Europe,Retail,Hair,1.0176470588235293
+DE10,P478239,True,Germany,Europe,Retail,Skincare,1.033132530120482
+DE10,P479732,True,Germany,Europe,Retail,Skincare,1.043554006968641
+DE10,P479829,False,Germany,Europe,Retail,Hair,1.0
+DE10,P479830,True,Germany,Europe,Retail,Hair,1.0
+DE10,P480152,False,Germany,Europe,Retail,Hair,0.9741379310344828
+DE10,P480529,True,Germany,Europe,Retail,Bath & Body,1.00990099009901
+DE10,P480634,True,Germany,Europe,Retail,Hair,0.9975903614457832
+DE10,P480636,True,Germany,Europe,Retail,Hair,1.0204778156996588
+DE10,P481141,True,Germany,Europe,Retail,Hair,1.0107142857142857
+DE10,P481370,True,Germany,Europe,Retail,Makeup,0.9929245283018868
+DE10,P481396,True,Germany,Europe,Retail,Makeup,1.0287610619469028
+DE10,P482509,True,Germany,Europe,Retail,Makeup,0.9607843137254902
+DE10,P482694,True,Germany,Europe,Retail,Skincare,0.9906832298136646
+DE10,P482755,False,Germany,Europe,Retail,Skincare,0.9873417721518988
+DE10,P483654,True,Germany,Europe,Retail,Makeup,1.0434782608695652
+DE10,P483678,False,Germany,Europe,Retail,Fragrance,0.9817351598173516
+DE10,P483706,True,Germany,Europe,Retail,Fragrance,0.9480968858131488
+DE10,P484052,True,Germany,Europe,Retail,Bath & Body,0.9903846153846154
+DE10,P49848448,True,Germany,Europe,Retail,Makeup,1.033167495854063
+DE10,P500445,False,Germany,Europe,Retail,Skincare,0.9945945945945946
+DE10,P500687,False,Germany,Europe,Retail,Skincare,1.0
+DE10,P500787,True,Germany,Europe,Retail,Bath & Body,0.9935064935064936
+DE10,P500992,False,Germany,Europe,Retail,Makeup,1.0207792207792208
+DE10,P501360,True,Germany,Europe,Retail,Fragrance,1.0104529616724738
+DE10,P501493,True,Germany,Europe,Retail,Bath & Body,0.9571984435797666
+DE10,P501516,True,Germany,Europe,Retail,Makeup,0.9501915708812261
+DE10,P501696,True,Germany,Europe,Retail,Fragrance,1.0035714285714286
+DE10,P501697,True,Germany,Europe,Retail,Fragrance,0.9543726235741445
+DE10,P501751,False,Germany,Europe,Retail,Skincare,0.9553571428571429
+DE10,P501760,True,Germany,Europe,Retail,Skincare,1.0096153846153846
+DE10,P501965,True,Germany,Europe,Retail,Fragrance,1.0
+DE10,P502068,False,Germany,Europe,Retail,Hair,0.977728285077951
+DE10,P502185,True,Germany,Europe,Retail,Makeup,1.0048661800486618
+DE10,P502186,False,Germany,Europe,Retail,Skincare,0.9273504273504274
+DE10,P502252,False,Germany,Europe,Retail,Hair,0.9318181818181818
+DE10,P502289,True,Germany,Europe,Retail,Makeup,1.040909090909091
+DE10,P502306,True,Germany,Europe,Retail,Makeup,1.036
+DE10,P502866,True,Germany,Europe,Retail,Makeup,0.9981132075471698
+DE10,P503206,True,Germany,Europe,Retail,Fragrance,1.024390243902439
+DE10,P503762,False,Germany,Europe,Retail,Makeup,0.9811320754716981
+DE10,P503857,False,Germany,Europe,Retail,Fragrance,0.9779411764705882
+DE10,P504054,True,Germany,Europe,Retail,Bath & Body,0.9764150943396226
+DE10,P504064,True,Germany,Europe,Retail,Skincare,0.9800399201596807
+DE10,P504127,True,Germany,Europe,Retail,Makeup,1.034934497816594
+DE10,P504281,True,Germany,Europe,Retail,Fragrance,0.958041958041958
+DE10,P504285,False,Germany,Europe,Retail,Fragrance,0.9172413793103448
+DE10,P504364,True,Germany,Europe,Retail,Fragrance,0.9921465968586387
+DE10,P504453,False,Germany,Europe,Retail,Hair,0.9519230769230769
+DE10,P504789,False,Germany,Europe,Retail,Makeup,0.9820717131474104
+DE10,P504841,False,Germany,Europe,Retail,Hair,0.9904458598726115
+DE10,P505041,True,Germany,Europe,Retail,Makeup,0.972972972972973
+DE10,P505250,False,Germany,Europe,Retail,Makeup,0.9615384615384616
+DE10,P505463,False,Germany,Europe,Retail,Fragrance,0.7611940298507462
+DE10,P54433,False,Germany,Europe,Retail,Makeup,0.9223744292237442
+DE10,P6463,True,Germany,Europe,Retail,Fragrance,1.0236220472440944
+DE10,P76000,False,Germany,Europe,Retail,Fragrance,0.9588014981273408
+DE10,P7844,True,Germany,Europe,Retail,Bath & Body,0.9292307692307692
+DE10,P91627362,True,Germany,Europe,Retail,Skincare,1.0068181818181818
+FR10,P107319,True,France,Europe,Flagship Retail,Bath & Body,1.032064128256513
+FR10,P109911,True,France,Europe,Flagship Retail,Makeup,1.0
+FR10,P152203,True,France,Europe,Flagship Retail,Bath & Body,0.9959266802443992
+FR10,P162554,True,France,Europe,Flagship Retail,Bath & Body,1.0696202531645569
+FR10,P183916,True,France,Europe,Flagship Retail,Makeup,1.0277777777777777
+FR10,P229406,False,France,Europe,Flagship Retail,Makeup,1.0047281323877069
+FR10,P269707,True,France,Europe,Flagship Retail,Hair,0.9841897233201581
+FR10,P296439,True,France,Europe,Flagship Retail,Hair,1.0309523809523808
+FR10,P375534,True,France,Europe,Flagship Retail,Skincare,1.048582995951417
+FR10,P382378,True,France,Europe,Flagship Retail,Makeup,1.0125
+FR10,P383054,True,France,Europe,Flagship Retail,Skincare,0.9702380952380952
+FR10,P387939,False,France,Europe,Flagship Retail,Fragrance,0.9805194805194806
+FR10,P389524,False,France,Europe,Flagship Retail,Hair,0.9736842105263158
+FR10,P392004,True,France,Europe,Flagship Retail,Skincare,0.9477124183006536
+FR10,P395532,True,France,Europe,Flagship Retail,Makeup,0.9900990099009901
+FR10,P399503,True,France,Europe,Flagship Retail,Makeup,1.0141342756183747
+FR10,P401771,True,France,Europe,Flagship Retail,Makeup,1.0032258064516129
+FR10,P405602,False,France,Europe,Flagship Retail,Makeup,0.9695121951219512
+FR10,P408218,True,France,Europe,Flagship Retail,Makeup,0.9667250437828371
+FR10,P409988,False,France,Europe,Flagship Retail,Makeup,1.02504816955684
+FR10,P413326,True,France,Europe,Flagship Retail,Skincare,1.0221729490022173
+FR10,P413684,True,France,Europe,Flagship Retail,Hair,1.0506329113924051
+FR10,P416725,False,France,Europe,Flagship Retail,Skincare,0.8709677419354839
+FR10,P417192,False,France,Europe,Flagship Retail,Fragrance,0.8842105263157894
+FR10,P418122,True,France,Europe,Flagship Retail,Fragrance,0.9957983193277311
+FR10,P420019,True,France,Europe,Flagship Retail,Makeup,0.9922178988326849
+FR10,P420699,True,France,Europe,Flagship Retail,Skincare,0.9973118279569892
+FR10,P422275,True,France,Europe,Flagship Retail,Hair,0.9926470588235294
+FR10,P427393,False,France,Europe,Flagship Retail,Skincare,0.9943661971830986
+FR10,P428222,True,France,Europe,Flagship Retail,Hair,1.022670025188917
+FR10,P428636,True,France,Europe,Flagship Retail,Skincare,1.0040080160320641
+FR10,P429554,False,France,Europe,Flagship Retail,Fragrance,0.9746376811594203
+FR10,P429675,True,France,Europe,Flagship Retail,Skincare,0.9710743801652892
+FR10,P432045,True,France,Europe,Flagship Retail,Skincare,0.9603960396039604
+FR10,P432863,True,France,Europe,Flagship Retail,Makeup,0.9802371541501976
+FR10,P433125,True,France,Europe,Flagship Retail,Makeup,1.007168458781362
+FR10,P434399,True,France,Europe,Flagship Retail,Hair,1.0368421052631578
+FR10,P434410,True,France,Europe,Flagship Retail,Hair,0.9859550561797753
+FR10,P435342,True,France,Europe,Flagship Retail,Fragrance,0.9953917050691244
+FR10,P436757,True,France,Europe,Flagship Retail,Bath & Body,0.96045197740113
+FR10,P439406,True,France,Europe,Flagship Retail,Fragrance,0.9363295880149812
+FR10,P439672,True,France,Europe,Flagship Retail,Skincare,0.9725609756097561
+FR10,P440305,True,France,Europe,Flagship Retail,Skincare,0.9789719626168224
+FR10,P442742,False,France,Europe,Flagship Retail,Skincare,1.0076628352490422
+FR10,P443834,True,France,Europe,Flagship Retail,Skincare,1.037593984962406
+FR10,P444990,True,France,Europe,Flagship Retail,Skincare,1.03
+FR10,P448730,True,France,Europe,Flagship Retail,Hair,1.0034965034965035
+FR10,P449342,True,France,Europe,Flagship Retail,Makeup,1.0116959064327486
+FR10,P450720,True,France,Europe,Flagship Retail,Makeup,0.9866156787762906
+FR10,P451225,True,France,Europe,Flagship Retail,Makeup,0.9967105263157895
+FR10,P453929,True,France,Europe,Flagship Retail,Skincare,1.0253623188405796
+FR10,P454018,True,France,Europe,Flagship Retail,Skincare,1.055232558139535
+FR10,P454083,True,France,Europe,Flagship Retail,Bath & Body,0.9366197183098591
+FR10,P454941,True,France,Europe,Flagship Retail,Makeup,1.0057803468208093
+FR10,P455321,True,France,Europe,Flagship Retail,Makeup,1.033175355450237
+FR10,P456007,True,France,Europe,Flagship Retail,Makeup,1.0
+FR10,P457429,True,France,Europe,Flagship Retail,Makeup,1.0244444444444445
+FR10,P457458,True,France,Europe,Flagship Retail,Makeup,0.9888682745825603
+FR10,P458630,True,France,Europe,Flagship Retail,Fragrance,0.9907834101382489
+FR10,P461185,True,France,Europe,Flagship Retail,Fragrance,0.9979338842975206
+FR10,P461451,True,France,Europe,Flagship Retail,Skincare,1.0047169811320755
+FR10,P461636,False,France,Europe,Flagship Retail,Hair,0.975
+FR10,P462387,True,France,Europe,Flagship Retail,Hair,0.9855072463768116
+FR10,P462417,True,France,Europe,Flagship Retail,Fragrance,0.9718875502008032
+FR10,P463476,True,France,Europe,Flagship Retail,Fragrance,1.03125
+FR10,P46587789,True,France,Europe,Flagship Retail,Makeup,1.011111111111111
+FR10,P467038,False,France,Europe,Flagship Retail,Skincare,0.9734982332155477
+FR10,P467120,True,France,Europe,Flagship Retail,Skincare,1.0360360360360361
+FR10,P467123,True,France,Europe,Flagship Retail,Skincare,0.985207100591716
+FR10,P467973,False,France,Europe,Flagship Retail,Skincare,0.9317269076305221
+FR10,P469195,True,France,Europe,Flagship Retail,Hair,1.0276497695852536
+FR10,P469197,True,France,Europe,Flagship Retail,Fragrance,0.9907692307692307
+FR10,P469440,True,France,Europe,Flagship Retail,Hair,1.0112994350282485
+FR10,P469828,False,France,Europe,Flagship Retail,Fragrance,0.9640287769784173
+FR10,P470025,True,France,Europe,Flagship Retail,Makeup,0.9959839357429718
+FR10,P470246,False,France,Europe,Flagship Retail,Skincare,0.9223300970873787
+FR10,P470510,False,France,Europe,Flagship Retail,Skincare,0.9561752988047809
+FR10,P470525,True,France,Europe,Flagship Retail,Fragrance,1.032640949554896
+FR10,P470542,True,France,Europe,Flagship Retail,Makeup,0.968503937007874
+FR10,P471046,True,France,Europe,Flagship Retail,Skincare,0.989010989010989
+FR10,P471076,True,France,Europe,Flagship Retail,Makeup,1.0
+FR10,P471101,True,France,Europe,Flagship Retail,Skincare,1.0
+FR10,P471226,True,France,Europe,Flagship Retail,Skincare,0.9768211920529801
+FR10,P472317,True,France,Europe,Flagship Retail,Makeup,0.9956331877729258
+FR10,P472452,True,France,Europe,Flagship Retail,Bath & Body,1.0229226361031518
+FR10,P472817,True,France,Europe,Flagship Retail,Makeup,0.9369747899159664
+FR10,P473260,True,France,Europe,Flagship Retail,Hair,0.9947780678851175
+FR10,P475118,True,France,Europe,Flagship Retail,Makeup,0.9752475247524752
+FR10,P475951,True,France,Europe,Flagship Retail,Skincare,1.0604395604395604
+FR10,P475981,False,France,Europe,Flagship Retail,Hair,1.0050632911392405
+FR10,P476011,True,France,Europe,Flagship Retail,Makeup,1.0222772277227723
+FR10,P476428,True,France,Europe,Flagship Retail,Skincare,0.9706744868035191
+FR10,P476430,True,France,Europe,Flagship Retail,Bath & Body,0.976897689768977
+FR10,P476550,True,France,Europe,Flagship Retail,Makeup,1.0182291666666667
+FR10,P476690,False,France,Europe,Flagship Retail,Makeup,0.9731343283582089
+FR10,P476865,True,France,Europe,Flagship Retail,Fragrance,0.9083333333333333
+FR10,P477741,True,France,Europe,Flagship Retail,Hair,1.0934256055363323
+FR10,P477822,True,France,Europe,Flagship Retail,Hair,1.0176470588235293
+FR10,P477838,True,France,Europe,Flagship Retail,Makeup,1.010928961748634
+FR10,P478239,True,France,Europe,Flagship Retail,Skincare,1.033132530120482
+FR10,P479688,True,France,Europe,Flagship Retail,Skincare,1.002008032128514
+FR10,P479732,True,France,Europe,Flagship Retail,Skincare,1.043554006968641
+FR10,P479829,True,France,Europe,Flagship Retail,Hair,1.0
+FR10,P479830,True,France,Europe,Flagship Retail,Hair,1.0
+FR10,P479969,True,France,Europe,Flagship Retail,Hair,1.0168674698795181
+FR10,P480529,True,France,Europe,Flagship Retail,Bath & Body,1.00990099009901
+FR10,P480634,True,France,Europe,Flagship Retail,Hair,0.9975903614457832
+FR10,P480636,True,France,Europe,Flagship Retail,Hair,1.0204778156996588
+FR10,P481141,False,France,Europe,Flagship Retail,Hair,1.0107142857142857
+FR10,P481396,True,France,Europe,Flagship Retail,Makeup,1.0287610619469028
+FR10,P482013,False,France,Europe,Flagship Retail,Fragrance,0.9038461538461539
+FR10,P482694,True,France,Europe,Flagship Retail,Skincare,0.9906832298136646
+FR10,P482755,False,France,Europe,Flagship Retail,Skincare,0.9873417721518988
+FR10,P483474,True,France,Europe,Flagship Retail,Makeup,1.02803738317757
+FR10,P483678,True,France,Europe,Flagship Retail,Fragrance,0.9817351598173516
+FR10,P483706,True,France,Europe,Flagship Retail,Fragrance,0.9480968858131488
+FR10,P484052,False,France,Europe,Flagship Retail,Bath & Body,0.9903846153846154
+FR10,P49848448,True,France,Europe,Flagship Retail,Makeup,1.033167495854063
+FR10,P500256,True,France,Europe,Flagship Retail,Skincare,1.0045871559633028
+FR10,P500445,True,France,Europe,Flagship Retail,Skincare,0.9945945945945946
+FR10,P500687,False,France,Europe,Flagship Retail,Skincare,1.0
+FR10,P500787,False,France,Europe,Flagship Retail,Bath & Body,0.9935064935064936
+FR10,P500992,True,France,Europe,Flagship Retail,Makeup,1.0207792207792208
+FR10,P501284,True,France,Europe,Flagship Retail,Makeup,1.0198019801980198
+FR10,P501360,True,France,Europe,Flagship Retail,Fragrance,1.0104529616724738
+FR10,P501435,True,France,Europe,Flagship Retail,Makeup,0.9750778816199377
+FR10,P501493,False,France,Europe,Flagship Retail,Bath & Body,0.9571984435797666
+FR10,P501516,False,France,Europe,Flagship Retail,Makeup,0.9501915708812261
+FR10,P501696,True,France,Europe,Flagship Retail,Fragrance,1.0035714285714286
+FR10,P501697,False,France,Europe,Flagship Retail,Fragrance,0.9543726235741445
+FR10,P501721,True,France,Europe,Flagship Retail,Hair,0.9950738916256158
+FR10,P501760,True,France,Europe,Flagship Retail,Skincare,1.0096153846153846
+FR10,P501965,True,France,Europe,Flagship Retail,Fragrance,1.0
+FR10,P502068,True,France,Europe,Flagship Retail,Hair,0.977728285077951
+FR10,P502185,True,France,Europe,Flagship Retail,Makeup,1.0048661800486618
+FR10,P502186,False,France,Europe,Flagship Retail,Skincare,0.9273504273504274
+FR10,P502866,True,France,Europe,Flagship Retail,Makeup,0.9981132075471698
+FR10,P503762,True,France,Europe,Flagship Retail,Makeup,0.9811320754716981
+FR10,P504044,True,France,Europe,Flagship Retail,Skincare,0.9709090909090909
+FR10,P504064,True,France,Europe,Flagship Retail,Skincare,0.9800399201596807
+FR10,P504127,True,France,Europe,Flagship Retail,Makeup,1.034934497816594
+FR10,P504187,False,France,Europe,Flagship Retail,Makeup,1.0062893081761006
+FR10,P504281,True,France,Europe,Flagship Retail,Fragrance,0.958041958041958
+FR10,P504285,True,France,Europe,Flagship Retail,Fragrance,0.9172413793103448
+FR10,P504364,True,France,Europe,Flagship Retail,Fragrance,0.9921465968586387
+FR10,P504453,False,France,Europe,Flagship Retail,Hair,0.9519230769230769
+FR10,P504789,True,France,Europe,Flagship Retail,Makeup,0.9820717131474104
+FR10,P504794,True,France,Europe,Flagship Retail,Skincare,0.9545454545454546
+FR10,P504841,True,France,Europe,Flagship Retail,Hair,0.9904458598726115
+FR10,P504849,True,France,Europe,Flagship Retail,Skincare,0.9625
+FR10,P505041,True,France,Europe,Flagship Retail,Makeup,0.972972972972973
+FR10,P505250,False,France,Europe,Flagship Retail,Makeup,0.9615384615384616
+FR10,P505463,False,France,Europe,Flagship Retail,Fragrance,0.7611940298507462
+FR10,P76000,True,France,Europe,Flagship Retail,Fragrance,0.9588014981273408
+FR10,P7844,False,France,Europe,Flagship Retail,Bath & Body,0.9292307692307692
+FR10,P91627362,True,France,Europe,Flagship Retail,Skincare,1.0068181818181818
+MA10,P107319,True,Morocco,Middle East & Africa,Retail,Bath & Body,1.032064128256513
+MA10,P12790,False,Morocco,Middle East & Africa,Retail,Makeup,1.0092307692307692
+MA10,P152203,True,Morocco,Middle East & Africa,Retail,Bath & Body,0.9959266802443992
+MA10,P162554,True,Morocco,Middle East & Africa,Retail,Bath & Body,1.0696202531645569
+MA10,P183916,True,Morocco,Middle East & Africa,Retail,Makeup,1.0277777777777777
+MA10,P229406,True,Morocco,Middle East & Africa,Retail,Makeup,1.0047281323877069
+MA10,P269707,False,Morocco,Middle East & Africa,Retail,Hair,0.9841897233201581
+MA10,P34402,False,Morocco,Middle East & Africa,Retail,Skincare,1.033210332103321
+MA10,P375534,False,Morocco,Middle East & Africa,Retail,Skincare,1.048582995951417
+MA10,P375938,False,Morocco,Middle East & Africa,Retail,Fragrance,0.9565217391304348
+MA10,P378111,False,Morocco,Middle East & Africa,Retail,Makeup,0.9900990099009901
+MA10,P379995,True,Morocco,Middle East & Africa,Retail,Skincare,0.9942196531791907
+MA10,P387261,False,Morocco,Middle East & Africa,Retail,Skincare,0.9514925373134329
+MA10,P392004,False,Morocco,Middle East & Africa,Retail,Skincare,0.9477124183006536
+MA10,P397465,True,Morocco,Middle East & Africa,Retail,Skincare,0.9835616438356164
+MA10,P397627,False,Morocco,Middle East & Africa,Retail,Skincare,1.0206489675516224
+MA10,P399503,True,Morocco,Middle East & Africa,Retail,Makeup,1.0141342756183747
+MA10,P401771,False,Morocco,Middle East & Africa,Retail,Makeup,1.0032258064516129
+MA10,P405269,True,Morocco,Middle East & Africa,Retail,Fragrance,0.9530201342281879
+MA10,P405602,False,Morocco,Middle East & Africa,Retail,Makeup,0.9695121951219512
+MA10,P409988,False,Morocco,Middle East & Africa,Retail,Makeup,1.02504816955684
+MA10,P413326,True,Morocco,Middle East & Africa,Retail,Skincare,1.0221729490022173
+MA10,P416725,False,Morocco,Middle East & Africa,Retail,Skincare,0.8709677419354839
+MA10,P416825,False,Morocco,Middle East & Africa,Retail,Skincare,0.9789473684210527
+MA10,P417192,False,Morocco,Middle East & Africa,Retail,Fragrance,0.8842105263157894
+MA10,P417312,False,Morocco,Middle East & Africa,Retail,Fragrance,1.041782729805014
+MA10,P418122,False,Morocco,Middle East & Africa,Retail,Fragrance,0.9957983193277311
+MA10,P420019,False,Morocco,Middle East & Africa,Retail,Makeup,0.9922178988326849
+MA10,P420699,False,Morocco,Middle East & Africa,Retail,Skincare,0.9973118279569892
+MA10,P427393,False,Morocco,Middle East & Africa,Retail,Skincare,0.9943661971830986
+MA10,P428222,False,Morocco,Middle East & Africa,Retail,Hair,1.022670025188917
+MA10,P428636,False,Morocco,Middle East & Africa,Retail,Skincare,1.0040080160320641
+MA10,P429554,False,Morocco,Middle East & Africa,Retail,Fragrance,0.9746376811594203
+MA10,P429952,True,Morocco,Middle East & Africa,Retail,Skincare,0.9849624060150376
+MA10,P430910,False,Morocco,Middle East & Africa,Retail,Fragrance,0.9556962025316456
+MA10,P431511,False,Morocco,Middle East & Africa,Retail,Makeup,1.0498812351543942
+MA10,P432045,False,Morocco,Middle East & Africa,Retail,Skincare,0.9603960396039604
+MA10,P434410,False,Morocco,Middle East & Africa,Retail,Hair,0.9859550561797753
+MA10,P435342,False,Morocco,Middle East & Africa,Retail,Fragrance,0.9953917050691244
+MA10,P439406,False,Morocco,Middle East & Africa,Retail,Fragrance,0.9363295880149812
+MA10,P439672,False,Morocco,Middle East & Africa,Retail,Skincare,0.9725609756097561
+MA10,P440305,False,Morocco,Middle East & Africa,Retail,Skincare,0.9789719626168224
+MA10,P441329,False,Morocco,Middle East & Africa,Retail,Fragrance,0.9137931034482759
+MA10,P442742,False,Morocco,Middle East & Africa,Retail,Skincare,1.0076628352490422
+MA10,P443834,False,Morocco,Middle East & Africa,Retail,Skincare,1.037593984962406
+MA10,P446816,False,Morocco,Middle East & Africa,Retail,Makeup,1.0026737967914439
+MA10,P449342,True,Morocco,Middle East & Africa,Retail,Makeup,1.0116959064327486
+MA10,P450720,False,Morocco,Middle East & Africa,Retail,Makeup,0.9866156787762906
+MA10,P451225,False,Morocco,Middle East & Africa,Retail,Makeup,0.9967105263157895
+MA10,P453929,False,Morocco,Middle East & Africa,Retail,Skincare,1.0253623188405796
+MA10,P454083,False,Morocco,Middle East & Africa,Retail,Bath & Body,0.9366197183098591
+MA10,P456007,False,Morocco,Middle East & Africa,Retail,Makeup,1.0
+MA10,P456975,True,Morocco,Middle East & Africa,Retail,Fragrance,0.9914529914529915
+MA10,P457458,False,Morocco,Middle East & Africa,Retail,Makeup,0.9888682745825603
+MA10,P458630,False,Morocco,Middle East & Africa,Retail,Fragrance,0.9907834101382489
+MA10,P459301,False,Morocco,Middle East & Africa,Retail,Skincare,0.9278350515463918
+MA10,P461185,True,Morocco,Middle East & Africa,Retail,Fragrance,0.9979338842975206
+MA10,P461451,False,Morocco,Middle East & Africa,Retail,Skincare,1.0047169811320755
+MA10,P461636,False,Morocco,Middle East & Africa,Retail,Hair,0.975
+MA10,P461950,False,Morocco,Middle East & Africa,Retail,Skincare,0.9479166666666666
+MA10,P462387,False,Morocco,Middle East & Africa,Retail,Hair,0.9855072463768116
+MA10,P462417,True,Morocco,Middle East & Africa,Retail,Fragrance,0.9718875502008032
+MA10,P467038,False,Morocco,Middle East & Africa,Retail,Skincare,0.9734982332155477
+MA10,P467123,True,Morocco,Middle East & Africa,Retail,Skincare,0.985207100591716
+MA10,P467944,True,Morocco,Middle East & Africa,Retail,Fragrance,1.021551724137931
+MA10,P468161,True,Morocco,Middle East & Africa,Retail,Bath & Body,0.9792284866468842
+MA10,P468353,False,Morocco,Middle East & Africa,Retail,Makeup,1.0360824742268042
+MA10,P469197,True,Morocco,Middle East & Africa,Retail,Fragrance,0.9907692307692307
+MA10,P469439,True,Morocco,Middle East & Africa,Retail,Skincare,1.0234375
+MA10,P469828,False,Morocco,Middle East & Africa,Retail,Fragrance,0.9640287769784173
+MA10,P470004,True,Morocco,Middle East & Africa,Retail,Makeup,0.9439655172413793
+MA10,P470025,True,Morocco,Middle East & Africa,Retail,Makeup,0.9959839357429718
+MA10,P470246,True,Morocco,Middle East & Africa,Retail,Skincare,0.9223300970873787
+MA10,P470510,False,Morocco,Middle East & Africa,Retail,Skincare,0.9561752988047809
+MA10,P470542,False,Morocco,Middle East & Africa,Retail,Makeup,0.968503937007874
+MA10,P471009,True,Morocco,Middle East & Africa,Retail,Skincare,0.977491961414791
+MA10,P471076,False,Morocco,Middle East & Africa,Retail,Makeup,1.0
+MA10,P471101,False,Morocco,Middle East & Africa,Retail,Skincare,1.0
+MA10,P471242,True,Morocco,Middle East & Africa,Retail,Makeup,0.950207468879668
+MA10,P472044,False,Morocco,Middle East & Africa,Retail,Hair,0.9646643109540636
+MA10,P472065,False,Morocco,Middle East & Africa,Retail,Makeup,1.003883495145631
+MA10,P472452,True,Morocco,Middle East & Africa,Retail,Bath & Body,1.0229226361031518
+MA10,P473145,False,Morocco,Middle East & Africa,Retail,Makeup,0.9897260273972602
+MA10,P473185,False,Morocco,Middle East & Africa,Retail,Skincare,0.9299363057324841
+MA10,P473260,False,Morocco,Middle East & Africa,Retail,Hair,0.9947780678851175
+MA10,P474942,True,Morocco,Middle East & Africa,Retail,Skincare,0.9832402234636871
+MA10,P475118,False,Morocco,Middle East & Africa,Retail,Makeup,0.9752475247524752
+MA10,P475951,False,Morocco,Middle East & Africa,Retail,Skincare,1.0604395604395604
+MA10,P475981,False,Morocco,Middle East & Africa,Retail,Hair,1.0050632911392405
+MA10,P476428,False,Morocco,Middle East & Africa,Retail,Skincare,0.9706744868035191
+MA10,P476430,False,Morocco,Middle East & Africa,Retail,Bath & Body,0.976897689768977
+MA10,P476550,False,Morocco,Middle East & Africa,Retail,Makeup,1.0182291666666667
+MA10,P476671,False,Morocco,Middle East & Africa,Retail,Bath & Body,1.0180878552971577
+MA10,P476690,False,Morocco,Middle East & Africa,Retail,Makeup,0.9731343283582089
+MA10,P476697,False,Morocco,Middle East & Africa,Retail,Makeup,0.9693877551020408
+MA10,P476865,False,Morocco,Middle East & Africa,Retail,Fragrance,0.9083333333333333
+MA10,P477168,True,Morocco,Middle East & Africa,Retail,Makeup,1.033003300330033
+MA10,P477822,False,Morocco,Middle East & Africa,Retail,Hair,1.0176470588235293
+MA10,P478239,False,Morocco,Middle East & Africa,Retail,Skincare,1.033132530120482
+MA10,P479732,True,Morocco,Middle East & Africa,Retail,Skincare,1.043554006968641
+MA10,P479829,False,Morocco,Middle East & Africa,Retail,Hair,1.0
+MA10,P479830,True,Morocco,Middle East & Africa,Retail,Hair,1.0
+MA10,P479969,True,Morocco,Middle East & Africa,Retail,Hair,1.0168674698795181
+MA10,P480529,True,Morocco,Middle East & Africa,Retail,Bath & Body,1.00990099009901
+MA10,P480634,True,Morocco,Middle East & Africa,Retail,Hair,0.9975903614457832
+MA10,P480636,True,Morocco,Middle East & Africa,Retail,Hair,1.0204778156996588
+MA10,P481348,False,Morocco,Middle East & Africa,Retail,Skincare,0.9181286549707602
+MA10,P481370,False,Morocco,Middle East & Africa,Retail,Makeup,0.9929245283018868
+MA10,P482013,False,Morocco,Middle East & Africa,Retail,Fragrance,0.9038461538461539
+MA10,P482509,False,Morocco,Middle East & Africa,Retail,Makeup,0.9607843137254902
+MA10,P482694,False,Morocco,Middle East & Africa,Retail,Skincare,0.9906832298136646
+MA10,P483474,False,Morocco,Middle East & Africa,Retail,Makeup,1.02803738317757
+MA10,P483706,False,Morocco,Middle East & Africa,Retail,Fragrance,0.9480968858131488
+MA10,P484052,False,Morocco,Middle East & Africa,Retail,Bath & Body,0.9903846153846154
+MA10,P49848448,False,Morocco,Middle East & Africa,Retail,Makeup,1.033167495854063
+MA10,P500445,True,Morocco,Middle East & Africa,Retail,Skincare,0.9945945945945946
+MA10,P500687,False,Morocco,Middle East & Africa,Retail,Skincare,1.0
+MA10,P500787,True,Morocco,Middle East & Africa,Retail,Bath & Body,0.9935064935064936
+MA10,P501284,False,Morocco,Middle East & Africa,Retail,Makeup,1.0198019801980198
+MA10,P501493,True,Morocco,Middle East & Africa,Retail,Bath & Body,0.9571984435797666
+MA10,P501516,False,Morocco,Middle East & Africa,Retail,Makeup,0.9501915708812261
+MA10,P501696,False,Morocco,Middle East & Africa,Retail,Fragrance,1.0035714285714286
+MA10,P501697,False,Morocco,Middle East & Africa,Retail,Fragrance,0.9543726235741445
+MA10,P501721,False,Morocco,Middle East & Africa,Retail,Hair,0.9950738916256158
+MA10,P502068,True,Morocco,Middle East & Africa,Retail,Hair,0.977728285077951
+MA10,P502185,False,Morocco,Middle East & Africa,Retail,Makeup,1.0048661800486618
+MA10,P502186,False,Morocco,Middle East & Africa,Retail,Skincare,0.9273504273504274
+MA10,P502289,False,Morocco,Middle East & Africa,Retail,Makeup,1.040909090909091
+MA10,P502306,False,Morocco,Middle East & Africa,Retail,Makeup,1.036
+MA10,P502866,True,Morocco,Middle East & Africa,Retail,Makeup,0.9981132075471698
+MA10,P503762,False,Morocco,Middle East & Africa,Retail,Makeup,0.9811320754716981
+MA10,P503815,False,Morocco,Middle East & Africa,Retail,Fragrance,0.8857142857142857
+MA10,P504044,False,Morocco,Middle East & Africa,Retail,Skincare,0.9709090909090909
+MA10,P504054,False,Morocco,Middle East & Africa,Retail,Bath & Body,0.9764150943396226
+MA10,P504064,False,Morocco,Middle East & Africa,Retail,Skincare,0.9800399201596807
+MA10,P504159,True,Morocco,Middle East & Africa,Retail,Bath & Body,0.9808612440191388
+MA10,P504187,False,Morocco,Middle East & Africa,Retail,Makeup,1.0062893081761006
+MA10,P504281,False,Morocco,Middle East & Africa,Retail,Fragrance,0.958041958041958
+MA10,P504285,False,Morocco,Middle East & Africa,Retail,Fragrance,0.9172413793103448
+MA10,P504519,False,Morocco,Middle East & Africa,Retail,Bath & Body,0.9701492537313433
+MA10,P504789,True,Morocco,Middle East & Africa,Retail,Makeup,0.9820717131474104
+MA10,P504849,True,Morocco,Middle East & Africa,Retail,Skincare,0.9625
+MA10,P505041,False,Morocco,Middle East & Africa,Retail,Makeup,0.972972972972973
+MA10,P7844,True,Morocco,Middle East & Africa,Retail,Bath & Body,0.9292307692307692
+UK10,P107319,True,United Kingdom,Europe,Retail,Bath & Body,1.032064128256513
+UK10,P12790,True,United Kingdom,Europe,Retail,Makeup,1.0092307692307692
+UK10,P152203,True,United Kingdom,Europe,Retail,Bath & Body,0.9959266802443992
+UK10,P162554,True,United Kingdom,Europe,Retail,Bath & Body,1.0696202531645569
+UK10,P294018,True,United Kingdom,Europe,Retail,Skincare,1.0160857908847185
+UK10,P296439,True,United Kingdom,Europe,Retail,Hair,1.0309523809523808
+UK10,P34402,False,United Kingdom,Europe,Retail,Skincare,1.033210332103321
+UK10,P375534,True,United Kingdom,Europe,Retail,Skincare,1.048582995951417
+UK10,P375938,True,United Kingdom,Europe,Retail,Fragrance,0.9565217391304348
+UK10,P379995,True,United Kingdom,Europe,Retail,Skincare,0.9942196531791907
+UK10,P383054,False,United Kingdom,Europe,Retail,Skincare,0.9702380952380952
+UK10,P387939,True,United Kingdom,Europe,Retail,Fragrance,0.9805194805194806
+UK10,P395532,True,United Kingdom,Europe,Retail,Makeup,0.9900990099009901
+UK10,P397627,True,United Kingdom,Europe,Retail,Skincare,1.0206489675516224
+UK10,P399503,True,United Kingdom,Europe,Retail,Makeup,1.0141342756183747
+UK10,P405602,True,United Kingdom,Europe,Retail,Makeup,0.9695121951219512
+UK10,P408218,True,United Kingdom,Europe,Retail,Makeup,0.9667250437828371
+UK10,P409988,True,United Kingdom,Europe,Retail,Makeup,1.02504816955684
+UK10,P413326,False,United Kingdom,Europe,Retail,Skincare,1.0221729490022173
+UK10,P416725,False,United Kingdom,Europe,Retail,Skincare,0.8709677419354839
+UK10,P417312,True,United Kingdom,Europe,Retail,Fragrance,1.041782729805014
+UK10,P420019,True,United Kingdom,Europe,Retail,Makeup,0.9922178988326849
+UK10,P422275,True,United Kingdom,Europe,Retail,Hair,0.9926470588235294
+UK10,P427393,True,United Kingdom,Europe,Retail,Skincare,0.9943661971830986
+UK10,P428636,True,United Kingdom,Europe,Retail,Skincare,1.0040080160320641
+UK10,P429554,True,United Kingdom,Europe,Retail,Fragrance,0.9746376811594203
+UK10,P429952,True,United Kingdom,Europe,Retail,Skincare,0.9849624060150376
+UK10,P430910,True,United Kingdom,Europe,Retail,Fragrance,0.9556962025316456
+UK10,P431187,True,United Kingdom,Europe,Retail,Skincare,1.069090909090909
+UK10,P431511,False,United Kingdom,Europe,Retail,Makeup,1.0498812351543942
+UK10,P432239,True,United Kingdom,Europe,Retail,Skincare,1.0217391304347827
+UK10,P434399,True,United Kingdom,Europe,Retail,Hair,1.0368421052631578
+UK10,P434410,True,United Kingdom,Europe,Retail,Hair,0.9859550561797753
+UK10,P434440,True,United Kingdom,Europe,Retail,Hair,1.0321428571428573
+UK10,P435342,True,United Kingdom,Europe,Retail,Fragrance,0.9953917050691244
+UK10,P439406,True,United Kingdom,Europe,Retail,Fragrance,0.9363295880149812
+UK10,P440305,True,United Kingdom,Europe,Retail,Skincare,0.9789719626168224
+UK10,P442742,True,United Kingdom,Europe,Retail,Skincare,1.0076628352490422
+UK10,P444990,True,United Kingdom,Europe,Retail,Skincare,1.03
+UK10,P446816,True,United Kingdom,Europe,Retail,Makeup,1.0026737967914439
+UK10,P448730,False,United Kingdom,Europe,Retail,Hair,1.0034965034965035
+UK10,P449342,True,United Kingdom,Europe,Retail,Makeup,1.0116959064327486
+UK10,P450720,False,United Kingdom,Europe,Retail,Makeup,0.9866156787762906
+UK10,P454018,True,United Kingdom,Europe,Retail,Skincare,1.055232558139535
+UK10,P454083,True,United Kingdom,Europe,Retail,Bath & Body,0.9366197183098591
+UK10,P454941,False,United Kingdom,Europe,Retail,Makeup,1.0057803468208093
+UK10,P456006,True,United Kingdom,Europe,Retail,Makeup,1.0
+UK10,P456975,True,United Kingdom,Europe,Retail,Fragrance,0.9914529914529915
+UK10,P457429,True,United Kingdom,Europe,Retail,Makeup,1.0244444444444445
+UK10,P457458,True,United Kingdom,Europe,Retail,Makeup,0.9888682745825603
+UK10,P457512,True,United Kingdom,Europe,Retail,Skincare,1.0381944444444444
+UK10,P458630,True,United Kingdom,Europe,Retail,Fragrance,0.9907834101382489
+UK10,P459301,False,United Kingdom,Europe,Retail,Skincare,0.9278350515463918
+UK10,P461185,True,United Kingdom,Europe,Retail,Fragrance,0.9979338842975206
+UK10,P461451,True,United Kingdom,Europe,Retail,Skincare,1.0047169811320755
+UK10,P461636,True,United Kingdom,Europe,Retail,Hair,0.975
+UK10,P461950,False,United Kingdom,Europe,Retail,Skincare,0.9479166666666666
+UK10,P462387,True,United Kingdom,Europe,Retail,Hair,0.9855072463768116
+UK10,P462417,True,United Kingdom,Europe,Retail,Fragrance,0.9718875502008032
+UK10,P463476,True,United Kingdom,Europe,Retail,Fragrance,1.03125
+UK10,P466426,True,United Kingdom,Europe,Retail,Bath & Body,1.0746887966804979
+UK10,P467038,True,United Kingdom,Europe,Retail,Skincare,0.9734982332155477
+UK10,P467123,True,United Kingdom,Europe,Retail,Skincare,0.985207100591716
+UK10,P467944,True,United Kingdom,Europe,Retail,Fragrance,1.021551724137931
+UK10,P468161,True,United Kingdom,Europe,Retail,Bath & Body,0.9792284866468842
+UK10,P469197,True,United Kingdom,Europe,Retail,Fragrance,0.9907692307692307
+UK10,P469440,False,United Kingdom,Europe,Retail,Hair,1.0112994350282485
+UK10,P470004,False,United Kingdom,Europe,Retail,Makeup,0.9439655172413793
+UK10,P470025,True,United Kingdom,Europe,Retail,Makeup,0.9959839357429718
+UK10,P470246,True,United Kingdom,Europe,Retail,Skincare,0.9223300970873787
+UK10,P470510,False,United Kingdom,Europe,Retail,Skincare,0.9561752988047809
+UK10,P470542,True,United Kingdom,Europe,Retail,Makeup,0.968503937007874
+UK10,P471009,True,United Kingdom,Europe,Retail,Skincare,0.977491961414791
+UK10,P471076,True,United Kingdom,Europe,Retail,Makeup,1.0
+UK10,P471101,True,United Kingdom,Europe,Retail,Skincare,1.0
+UK10,P472044,True,United Kingdom,Europe,Retail,Hair,0.9646643109540636
+UK10,P472065,True,United Kingdom,Europe,Retail,Makeup,1.003883495145631
+UK10,P472317,True,United Kingdom,Europe,Retail,Makeup,0.9956331877729258
+UK10,P472452,True,United Kingdom,Europe,Retail,Bath & Body,1.0229226361031518
+UK10,P472817,True,United Kingdom,Europe,Retail,Makeup,0.9369747899159664
+UK10,P473260,True,United Kingdom,Europe,Retail,Hair,0.9947780678851175
+UK10,P475118,True,United Kingdom,Europe,Retail,Makeup,0.9752475247524752
+UK10,P475951,True,United Kingdom,Europe,Retail,Skincare,1.0604395604395604
+UK10,P476011,True,United Kingdom,Europe,Retail,Makeup,1.0222772277227723
+UK10,P476428,True,United Kingdom,Europe,Retail,Skincare,0.9706744868035191
+UK10,P476550,True,United Kingdom,Europe,Retail,Makeup,1.0182291666666667
+UK10,P476671,True,United Kingdom,Europe,Retail,Bath & Body,1.0180878552971577
+UK10,P476697,False,United Kingdom,Europe,Retail,Makeup,0.9693877551020408
+UK10,P476865,True,United Kingdom,Europe,Retail,Fragrance,0.9083333333333333
+UK10,P477168,False,United Kingdom,Europe,Retail,Makeup,1.033003300330033
+UK10,P477741,True,United Kingdom,Europe,Retail,Hair,1.0934256055363323
+UK10,P477822,True,United Kingdom,Europe,Retail,Hair,1.0176470588235293
+UK10,P477838,True,United Kingdom,Europe,Retail,Makeup,1.010928961748634
+UK10,P478239,True,United Kingdom,Europe,Retail,Skincare,1.033132530120482
+UK10,P479688,True,United Kingdom,Europe,Retail,Skincare,1.002008032128514
+UK10,P479732,True,United Kingdom,Europe,Retail,Skincare,1.043554006968641
+UK10,P479830,True,United Kingdom,Europe,Retail,Hair,1.0
+UK10,P479969,True,United Kingdom,Europe,Retail,Hair,1.0168674698795181
+UK10,P480152,True,United Kingdom,Europe,Retail,Hair,0.9741379310344828
+UK10,P480529,True,United Kingdom,Europe,Retail,Bath & Body,1.00990099009901
+UK10,P480634,True,United Kingdom,Europe,Retail,Hair,0.9975903614457832
+UK10,P480636,True,United Kingdom,Europe,Retail,Hair,1.0204778156996588
+UK10,P481348,True,United Kingdom,Europe,Retail,Skincare,0.9181286549707602
+UK10,P481370,True,United Kingdom,Europe,Retail,Makeup,0.9929245283018868
+UK10,P481396,False,United Kingdom,Europe,Retail,Makeup,1.0287610619469028
+UK10,P482013,False,United Kingdom,Europe,Retail,Fragrance,0.9038461538461539
+UK10,P482509,True,United Kingdom,Europe,Retail,Makeup,0.9607843137254902
+UK10,P482755,True,United Kingdom,Europe,Retail,Skincare,0.9873417721518988
+UK10,P483474,True,United Kingdom,Europe,Retail,Makeup,1.02803738317757
+UK10,P483678,True,United Kingdom,Europe,Retail,Fragrance,0.9817351598173516
+UK10,P483706,False,United Kingdom,Europe,Retail,Fragrance,0.9480968858131488
+UK10,P484052,True,United Kingdom,Europe,Retail,Bath & Body,0.9903846153846154
+UK10,P49848448,True,United Kingdom,Europe,Retail,Makeup,1.033167495854063
+UK10,P500687,True,United Kingdom,Europe,Retail,Skincare,1.0
+UK10,P500787,True,United Kingdom,Europe,Retail,Bath & Body,0.9935064935064936
+UK10,P500992,True,United Kingdom,Europe,Retail,Makeup,1.0207792207792208
+UK10,P501153,False,United Kingdom,Europe,Retail,Skincare,0.9885714285714285
+UK10,P501435,True,United Kingdom,Europe,Retail,Makeup,0.9750778816199377
+UK10,P501493,True,United Kingdom,Europe,Retail,Bath & Body,0.9571984435797666
+UK10,P501516,False,United Kingdom,Europe,Retail,Makeup,0.9501915708812261
+UK10,P501697,True,United Kingdom,Europe,Retail,Fragrance,0.9543726235741445
+UK10,P501721,True,United Kingdom,Europe,Retail,Hair,0.9950738916256158
+UK10,P501751,False,United Kingdom,Europe,Retail,Skincare,0.9553571428571429
+UK10,P502068,True,United Kingdom,Europe,Retail,Hair,0.977728285077951
+UK10,P502185,True,United Kingdom,Europe,Retail,Makeup,1.0048661800486618
+UK10,P502289,True,United Kingdom,Europe,Retail,Makeup,1.040909090909091
+UK10,P502866,True,United Kingdom,Europe,Retail,Makeup,0.9981132075471698
+UK10,P503206,False,United Kingdom,Europe,Retail,Fragrance,1.024390243902439
+UK10,P503762,True,United Kingdom,Europe,Retail,Makeup,0.9811320754716981
+UK10,P504044,False,United Kingdom,Europe,Retail,Skincare,0.9709090909090909
+UK10,P504064,True,United Kingdom,Europe,Retail,Skincare,0.9800399201596807
+UK10,P504127,True,United Kingdom,Europe,Retail,Makeup,1.034934497816594
+UK10,P504159,False,United Kingdom,Europe,Retail,Bath & Body,0.9808612440191388
+UK10,P504187,False,United Kingdom,Europe,Retail,Makeup,1.0062893081761006
+UK10,P504364,True,United Kingdom,Europe,Retail,Fragrance,0.9921465968586387
+UK10,P504453,True,United Kingdom,Europe,Retail,Hair,0.9519230769230769
+UK10,P504789,True,United Kingdom,Europe,Retail,Makeup,0.9820717131474104
+UK10,P504794,False,United Kingdom,Europe,Retail,Skincare,0.9545454545454546
+UK10,P504841,False,United Kingdom,Europe,Retail,Hair,0.9904458598726115
+UK10,P504849,True,United Kingdom,Europe,Retail,Skincare,0.9625
+UK10,P505250,False,United Kingdom,Europe,Retail,Makeup,0.9615384615384616
+UK10,P505463,False,United Kingdom,Europe,Retail,Fragrance,0.7611940298507462
+UK10,P54433,False,United Kingdom,Europe,Retail,Makeup,0.9223744292237442
+UK10,P76000,False,United Kingdom,Europe,Retail,Fragrance,0.9588014981273408
+UK10,P91627362,True,United Kingdom,Europe,Retail,Skincare,1.0068181818181818
+US10,P107319,True,United States,Americas,Retail,Bath & Body,1.032064128256513
+US10,P109911,True,United States,Americas,Retail,Makeup,1.0
+US10,P12790,False,United States,Americas,Retail,Makeup,1.0092307692307692
+US10,P152203,True,United States,Americas,Retail,Bath & Body,0.9959266802443992
+US10,P162554,True,United States,Americas,Retail,Bath & Body,1.0696202531645569
+US10,P183916,False,United States,Americas,Retail,Makeup,1.0277777777777777
+US10,P229406,True,United States,Americas,Retail,Makeup,1.0047281323877069
+US10,P269707,True,United States,Americas,Retail,Hair,0.9841897233201581
+US10,P294018,False,United States,Americas,Retail,Skincare,1.0160857908847185
+US10,P296439,True,United States,Americas,Retail,Hair,1.0309523809523808
+US10,P34402,True,United States,Americas,Retail,Skincare,1.033210332103321
+US10,P375938,True,United States,Americas,Retail,Fragrance,0.9565217391304348
+US10,P379995,False,United States,Americas,Retail,Skincare,0.9942196531791907
+US10,P382378,True,United States,Americas,Retail,Makeup,1.0125
+US10,P383054,False,United States,Americas,Retail,Skincare,0.9702380952380952
+US10,P387261,True,United States,Americas,Retail,Skincare,0.9514925373134329
+US10,P387564,True,United States,Americas,Retail,Fragrance,1.0190114068441065
+US10,P387939,True,United States,Americas,Retail,Fragrance,0.9805194805194806
+US10,P389524,False,United States,Americas,Retail,Hair,0.9736842105263158
+US10,P392004,True,United States,Americas,Retail,Skincare,0.9477124183006536
+US10,P395532,True,United States,Americas,Retail,Makeup,0.9900990099009901
+US10,P397465,True,United States,Americas,Retail,Skincare,0.9835616438356164
+US10,P399503,True,United States,Americas,Retail,Makeup,1.0141342756183747
+US10,P405269,True,United States,Americas,Retail,Fragrance,0.9530201342281879
+US10,P405602,True,United States,Americas,Retail,Makeup,0.9695121951219512
+US10,P408218,True,United States,Americas,Retail,Makeup,0.9667250437828371
+US10,P409988,False,United States,Americas,Retail,Makeup,1.02504816955684
+US10,P413326,True,United States,Americas,Retail,Skincare,1.0221729490022173
+US10,P413684,True,United States,Americas,Retail,Hair,1.0506329113924051
+US10,P416725,False,United States,Americas,Retail,Skincare,0.8709677419354839
+US10,P416825,True,United States,Americas,Retail,Skincare,0.9789473684210527
+US10,P417312,True,United States,Americas,Retail,Fragrance,1.041782729805014
+US10,P418122,True,United States,Americas,Retail,Fragrance,0.9957983193277311
+US10,P420019,True,United States,Americas,Retail,Makeup,0.9922178988326849
+US10,P420699,True,United States,Americas,Retail,Skincare,0.9973118279569892
+US10,P422275,True,United States,Americas,Retail,Hair,0.9926470588235294
+US10,P427393,True,United States,Americas,Retail,Skincare,0.9943661971830986
+US10,P428222,True,United States,Americas,Retail,Hair,1.022670025188917
+US10,P428636,True,United States,Americas,Retail,Skincare,1.0040080160320641
+US10,P429554,True,United States,Americas,Retail,Fragrance,0.9746376811594203
+US10,P429621,True,United States,Americas,Retail,Fragrance,0.9811320754716981
+US10,P429675,True,United States,Americas,Retail,Skincare,0.9710743801652892
+US10,P429952,True,United States,Americas,Retail,Skincare,0.9849624060150376
+US10,P430910,False,United States,Americas,Retail,Fragrance,0.9556962025316456
+US10,P431187,True,United States,Americas,Retail,Skincare,1.069090909090909
+US10,P431511,True,United States,Americas,Retail,Makeup,1.0498812351543942
+US10,P432045,True,United States,Americas,Retail,Skincare,0.9603960396039604
+US10,P432239,True,United States,Americas,Retail,Skincare,1.0217391304347827
+US10,P432863,True,United States,Americas,Retail,Makeup,0.9802371541501976
+US10,P434399,True,United States,Americas,Retail,Hair,1.0368421052631578
+US10,P434410,True,United States,Americas,Retail,Hair,0.9859550561797753
+US10,P434440,True,United States,Americas,Retail,Hair,1.0321428571428573
+US10,P435342,True,United States,Americas,Retail,Fragrance,0.9953917050691244
+US10,P439406,False,United States,Americas,Retail,Fragrance,0.9363295880149812
+US10,P440305,True,United States,Americas,Retail,Skincare,0.9789719626168224
+US10,P442742,True,United States,Americas,Retail,Skincare,1.0076628352490422
+US10,P443834,True,United States,Americas,Retail,Skincare,1.037593984962406
+US10,P444990,True,United States,Americas,Retail,Skincare,1.03
+US10,P446816,True,United States,Americas,Retail,Makeup,1.0026737967914439
+US10,P448200,False,United States,Americas,Retail,Skincare,0.9067357512953368
+US10,P449342,True,United States,Americas,Retail,Makeup,1.0116959064327486
+US10,P450720,True,United States,Americas,Retail,Makeup,0.9866156787762906
+US10,P453929,True,United States,Americas,Retail,Skincare,1.0253623188405796
+US10,P454018,True,United States,Americas,Retail,Skincare,1.055232558139535
+US10,P454083,False,United States,Americas,Retail,Bath & Body,0.9366197183098591
+US10,P454941,True,United States,Americas,Retail,Makeup,1.0057803468208093
+US10,P455321,False,United States,Americas,Retail,Makeup,1.033175355450237
+US10,P455339,True,United States,Americas,Retail,Skincare,1.0447368421052632
+US10,P455418,True,United States,Americas,Retail,Makeup,1.0
+US10,P456006,True,United States,Americas,Retail,Makeup,1.0
+US10,P456007,True,United States,Americas,Retail,Makeup,1.0
+US10,P456975,True,United States,Americas,Retail,Fragrance,0.9914529914529915
+US10,P457429,True,United States,Americas,Retail,Makeup,1.0244444444444445
+US10,P457458,True,United States,Americas,Retail,Makeup,0.9888682745825603
+US10,P457512,True,United States,Americas,Retail,Skincare,1.0381944444444444
+US10,P458630,True,United States,Americas,Retail,Fragrance,0.9907834101382489
+US10,P459301,True,United States,Americas,Retail,Skincare,0.9278350515463918
+US10,P461185,True,United States,Americas,Retail,Fragrance,0.9979338842975206
+US10,P461636,True,United States,Americas,Retail,Hair,0.975
+US10,P461950,False,United States,Americas,Retail,Skincare,0.9479166666666666
+US10,P462387,True,United States,Americas,Retail,Hair,0.9855072463768116
+US10,P462417,False,United States,Americas,Retail,Fragrance,0.9718875502008032
+US10,P463476,True,United States,Americas,Retail,Fragrance,1.03125
+US10,P46587789,True,United States,Americas,Retail,Makeup,1.011111111111111
+US10,P466426,True,United States,Americas,Retail,Bath & Body,1.0746887966804979
+US10,P467038,True,United States,Americas,Retail,Skincare,0.9734982332155477
+US10,P467120,True,United States,Americas,Retail,Skincare,1.0360360360360361
+US10,P467123,True,United States,Americas,Retail,Skincare,0.985207100591716
+US10,P467944,True,United States,Americas,Retail,Fragrance,1.021551724137931
+US10,P467973,True,United States,Americas,Retail,Skincare,0.9317269076305221
+US10,P468161,True,United States,Americas,Retail,Bath & Body,0.9792284866468842
+US10,P468353,True,United States,Americas,Retail,Makeup,1.0360824742268042
+US10,P469197,True,United States,Americas,Retail,Fragrance,0.9907692307692307
+US10,P469439,True,United States,Americas,Retail,Skincare,1.0234375
+US10,P469440,True,United States,Americas,Retail,Hair,1.0112994350282485
+US10,P469828,True,United States,Americas,Retail,Fragrance,0.9640287769784173
+US10,P470004,False,United States,Americas,Retail,Makeup,0.9439655172413793
+US10,P470025,True,United States,Americas,Retail,Makeup,0.9959839357429718
+US10,P470246,False,United States,Americas,Retail,Skincare,0.9223300970873787
+US10,P470510,True,United States,Americas,Retail,Skincare,0.9561752988047809
+US10,P470525,True,United States,Americas,Retail,Fragrance,1.032640949554896
+US10,P470542,True,United States,Americas,Retail,Makeup,0.968503937007874
+US10,P471009,True,United States,Americas,Retail,Skincare,0.977491961414791
+US10,P471046,True,United States,Americas,Retail,Skincare,0.989010989010989
+US10,P471076,True,United States,Americas,Retail,Makeup,1.0
+US10,P471226,True,United States,Americas,Retail,Skincare,0.9768211920529801
+US10,P472044,True,United States,Americas,Retail,Hair,0.9646643109540636
+US10,P472065,True,United States,Americas,Retail,Makeup,1.003883495145631
+US10,P472317,True,United States,Americas,Retail,Makeup,0.9956331877729258
+US10,P472452,True,United States,Americas,Retail,Bath & Body,1.0229226361031518
+US10,P473145,True,United States,Americas,Retail,Makeup,0.9897260273972602
+US10,P473185,False,United States,Americas,Retail,Skincare,0.9299363057324841
+US10,P473260,True,United States,Americas,Retail,Hair,0.9947780678851175
+US10,P474942,True,United States,Americas,Retail,Skincare,0.9832402234636871
+US10,P475118,True,United States,Americas,Retail,Makeup,0.9752475247524752
+US10,P475951,True,United States,Americas,Retail,Skincare,1.0604395604395604
+US10,P475981,True,United States,Americas,Retail,Hair,1.0050632911392405
+US10,P476011,True,United States,Americas,Retail,Makeup,1.0222772277227723
+US10,P476428,False,United States,Americas,Retail,Skincare,0.9706744868035191
+US10,P476430,True,United States,Americas,Retail,Bath & Body,0.976897689768977
+US10,P476550,True,United States,Americas,Retail,Makeup,1.0182291666666667
+US10,P476671,True,United States,Americas,Retail,Bath & Body,1.0180878552971577
+US10,P476690,True,United States,Americas,Retail,Makeup,0.9731343283582089
+US10,P476697,False,United States,Americas,Retail,Makeup,0.9693877551020408
+US10,P477168,True,United States,Americas,Retail,Makeup,1.033003300330033
+US10,P477741,True,United States,Americas,Retail,Hair,1.0934256055363323
+US10,P477822,True,United States,Americas,Retail,Hair,1.0176470588235293
+US10,P477838,False,United States,Americas,Retail,Makeup,1.010928961748634
+US10,P478239,True,United States,Americas,Retail,Skincare,1.033132530120482
+US10,P479688,True,United States,Americas,Retail,Skincare,1.002008032128514
+US10,P479732,True,United States,Americas,Retail,Skincare,1.043554006968641
+US10,P479829,True,United States,Americas,Retail,Hair,1.0
+US10,P479830,True,United States,Americas,Retail,Hair,1.0
+US10,P479969,True,United States,Americas,Retail,Hair,1.0168674698795181
+US10,P480152,True,United States,Americas,Retail,Hair,0.9741379310344828
+US10,P480529,True,United States,Americas,Retail,Bath & Body,1.00990099009901
+US10,P480636,True,United States,Americas,Retail,Hair,1.0204778156996588
+US10,P481103,False,United States,Americas,Retail,Fragrance,0.8867924528301887
+US10,P481141,True,United States,Americas,Retail,Hair,1.0107142857142857
+US10,P481348,True,United States,Americas,Retail,Skincare,0.9181286549707602
+US10,P481370,False,United States,Americas,Retail,Makeup,0.9929245283018868
+US10,P481396,True,United States,Americas,Retail,Makeup,1.0287610619469028
+US10,P482013,False,United States,Americas,Retail,Fragrance,0.9038461538461539
+US10,P482694,True,United States,Americas,Retail,Skincare,0.9906832298136646
+US10,P482755,True,United States,Americas,Retail,Skincare,0.9873417721518988
+US10,P483474,True,United States,Americas,Retail,Makeup,1.02803738317757
+US10,P483706,True,United States,Americas,Retail,Fragrance,0.9480968858131488
+US10,P49848448,True,United States,Americas,Retail,Makeup,1.033167495854063
+US10,P500256,False,United States,Americas,Retail,Skincare,1.0045871559633028
+US10,P500445,True,United States,Americas,Retail,Skincare,0.9945945945945946
+US10,P500687,True,United States,Americas,Retail,Skincare,1.0
+US10,P500787,True,United States,Americas,Retail,Bath & Body,0.9935064935064936
+US10,P500992,True,United States,Americas,Retail,Makeup,1.0207792207792208
+US10,P501153,True,United States,Americas,Retail,Skincare,0.9885714285714285
+US10,P501284,True,United States,Americas,Retail,Makeup,1.0198019801980198
+US10,P501360,True,United States,Americas,Retail,Fragrance,1.0104529616724738
+US10,P501435,True,United States,Americas,Retail,Makeup,0.9750778816199377
+US10,P501516,False,United States,Americas,Retail,Makeup,0.9501915708812261
+US10,P501696,True,United States,Americas,Retail,Fragrance,1.0035714285714286
+US10,P501721,True,United States,Americas,Retail,Hair,0.9950738916256158
+US10,P501760,True,United States,Americas,Retail,Skincare,1.0096153846153846
+US10,P501965,True,United States,Americas,Retail,Fragrance,1.0
+US10,P502068,True,United States,Americas,Retail,Hair,0.977728285077951
+US10,P502185,True,United States,Americas,Retail,Makeup,1.0048661800486618
+US10,P502186,False,United States,Americas,Retail,Skincare,0.9273504273504274
+US10,P502289,False,United States,Americas,Retail,Makeup,1.040909090909091
+US10,P502306,True,United States,Americas,Retail,Makeup,1.036
+US10,P502866,False,United States,Americas,Retail,Makeup,0.9981132075471698
+US10,P503762,True,United States,Americas,Retail,Makeup,0.9811320754716981
+US10,P503815,False,United States,Americas,Retail,Fragrance,0.8857142857142857
+US10,P503857,True,United States,Americas,Retail,Fragrance,0.9779411764705882
+US10,P504044,True,United States,Americas,Retail,Skincare,0.9709090909090909
+US10,P504054,True,United States,Americas,Retail,Bath & Body,0.9764150943396226
+US10,P504064,True,United States,Americas,Retail,Skincare,0.9800399201596807
+US10,P504159,True,United States,Americas,Retail,Bath & Body,0.9808612440191388
+US10,P504187,True,United States,Americas,Retail,Makeup,1.0062893081761006
+US10,P504281,True,United States,Americas,Retail,Fragrance,0.958041958041958
+US10,P504285,False,United States,Americas,Retail,Fragrance,0.9172413793103448
+US10,P504364,True,United States,Americas,Retail,Fragrance,0.9921465968586387
+US10,P504453,True,United States,Americas,Retail,Hair,0.9519230769230769
+US10,P504519,True,United States,Americas,Retail,Bath & Body,0.9701492537313433
+US10,P504789,True,United States,Americas,Retail,Makeup,0.9820717131474104
+US10,P504794,True,United States,Americas,Retail,Skincare,0.9545454545454546
+US10,P504841,True,United States,Americas,Retail,Hair,0.9904458598726115
+US10,P504849,True,United States,Americas,Retail,Skincare,0.9625
+US10,P505041,True,United States,Americas,Retail,Makeup,0.972972972972973
+US10,P505250,True,United States,Americas,Retail,Makeup,0.9615384615384616
+US10,P505463,False,United States,Americas,Retail,Fragrance,0.7611940298507462
+US10,P6463,True,United States,Americas,Retail,Fragrance,1.0236220472440944
+US10,P76000,True,United States,Americas,Retail,Fragrance,0.9588014981273408
+US10,P7844,True,United States,Americas,Retail,Bath & Body,0.9292307692307692
+US10,P91627362,True,United States,Americas,Retail,Skincare,1.0068181818181818
+US20,P107319,True,United States,Americas,Online Fulfillment,Bath & Body,1.032064128256513
+US20,P109911,True,United States,Americas,Online Fulfillment,Makeup,1.0
+US20,P183916,True,United States,Americas,Online Fulfillment,Makeup,1.0277777777777777
+US20,P294018,True,United States,Americas,Online Fulfillment,Skincare,1.0160857908847185
+US20,P296439,True,United States,Americas,Online Fulfillment,Hair,1.0309523809523808
+US20,P34402,True,United States,Americas,Online Fulfillment,Skincare,1.033210332103321
+US20,P375938,True,United States,Americas,Online Fulfillment,Fragrance,0.9565217391304348
+US20,P378111,True,United States,Americas,Online Fulfillment,Makeup,0.9900990099009901
+US20,P379995,True,United States,Americas,Online Fulfillment,Skincare,0.9942196531791907
+US20,P382378,True,United States,Americas,Online Fulfillment,Makeup,1.0125
+US20,P383054,False,United States,Americas,Online Fulfillment,Skincare,0.9702380952380952
+US20,P387261,False,United States,Americas,Online Fulfillment,Skincare,0.9514925373134329
+US20,P387564,True,United States,Americas,Online Fulfillment,Fragrance,1.0190114068441065
+US20,P389524,True,United States,Americas,Online Fulfillment,Hair,0.9736842105263158
+US20,P392004,True,United States,Americas,Online Fulfillment,Skincare,0.9477124183006536
+US20,P395532,False,United States,Americas,Online Fulfillment,Makeup,0.9900990099009901
+US20,P397465,True,United States,Americas,Online Fulfillment,Skincare,0.9835616438356164
+US20,P397627,True,United States,Americas,Online Fulfillment,Skincare,1.0206489675516224
+US20,P399503,True,United States,Americas,Online Fulfillment,Makeup,1.0141342756183747
+US20,P401771,True,United States,Americas,Online Fulfillment,Makeup,1.0032258064516129
+US20,P405269,False,United States,Americas,Online Fulfillment,Fragrance,0.9530201342281879
+US20,P408218,True,United States,Americas,Online Fulfillment,Makeup,0.9667250437828371
+US20,P409988,True,United States,Americas,Online Fulfillment,Makeup,1.02504816955684
+US20,P413326,True,United States,Americas,Online Fulfillment,Skincare,1.0221729490022173
+US20,P416825,True,United States,Americas,Online Fulfillment,Skincare,0.9789473684210527
+US20,P418122,True,United States,Americas,Online Fulfillment,Fragrance,0.9957983193277311
+US20,P420019,True,United States,Americas,Online Fulfillment,Makeup,0.9922178988326849
+US20,P420699,True,United States,Americas,Online Fulfillment,Skincare,0.9973118279569892
+US20,P422275,True,United States,Americas,Online Fulfillment,Hair,0.9926470588235294
+US20,P427393,False,United States,Americas,Online Fulfillment,Skincare,0.9943661971830986
+US20,P428222,True,United States,Americas,Online Fulfillment,Hair,1.022670025188917
+US20,P428636,True,United States,Americas,Online Fulfillment,Skincare,1.0040080160320641
+US20,P429621,True,United States,Americas,Online Fulfillment,Fragrance,0.9811320754716981
+US20,P429952,True,United States,Americas,Online Fulfillment,Skincare,0.9849624060150376
+US20,P430910,True,United States,Americas,Online Fulfillment,Fragrance,0.9556962025316456
+US20,P431187,True,United States,Americas,Online Fulfillment,Skincare,1.069090909090909
+US20,P431511,True,United States,Americas,Online Fulfillment,Makeup,1.0498812351543942
+US20,P432045,False,United States,Americas,Online Fulfillment,Skincare,0.9603960396039604
+US20,P432239,True,United States,Americas,Online Fulfillment,Skincare,1.0217391304347827
+US20,P432863,False,United States,Americas,Online Fulfillment,Makeup,0.9802371541501976
+US20,P433125,True,United States,Americas,Online Fulfillment,Makeup,1.007168458781362
+US20,P434399,True,United States,Americas,Online Fulfillment,Hair,1.0368421052631578
+US20,P434410,True,United States,Americas,Online Fulfillment,Hair,0.9859550561797753
+US20,P434440,True,United States,Americas,Online Fulfillment,Hair,1.0321428571428573
+US20,P435342,True,United States,Americas,Online Fulfillment,Fragrance,0.9953917050691244
+US20,P436757,True,United States,Americas,Online Fulfillment,Bath & Body,0.96045197740113
+US20,P439406,True,United States,Americas,Online Fulfillment,Fragrance,0.9363295880149812
+US20,P439672,True,United States,Americas,Online Fulfillment,Skincare,0.9725609756097561
+US20,P440305,True,United States,Americas,Online Fulfillment,Skincare,0.9789719626168224
+US20,P443834,True,United States,Americas,Online Fulfillment,Skincare,1.037593984962406
+US20,P444990,True,United States,Americas,Online Fulfillment,Skincare,1.03
+US20,P446816,True,United States,Americas,Online Fulfillment,Makeup,1.0026737967914439
+US20,P448200,False,United States,Americas,Online Fulfillment,Skincare,0.9067357512953368
+US20,P448730,True,United States,Americas,Online Fulfillment,Hair,1.0034965034965035
+US20,P450720,True,United States,Americas,Online Fulfillment,Makeup,0.9866156787762906
+US20,P451225,True,United States,Americas,Online Fulfillment,Makeup,0.9967105263157895
+US20,P453929,True,United States,Americas,Online Fulfillment,Skincare,1.0253623188405796
+US20,P454018,True,United States,Americas,Online Fulfillment,Skincare,1.055232558139535
+US20,P454941,True,United States,Americas,Online Fulfillment,Makeup,1.0057803468208093
+US20,P455339,True,United States,Americas,Online Fulfillment,Skincare,1.0447368421052632
+US20,P455418,True,United States,Americas,Online Fulfillment,Makeup,1.0
+US20,P456006,True,United States,Americas,Online Fulfillment,Makeup,1.0
+US20,P456007,True,United States,Americas,Online Fulfillment,Makeup,1.0
+US20,P456975,True,United States,Americas,Online Fulfillment,Fragrance,0.9914529914529915
+US20,P457458,False,United States,Americas,Online Fulfillment,Makeup,0.9888682745825603
+US20,P457512,True,United States,Americas,Online Fulfillment,Skincare,1.0381944444444444
+US20,P458630,True,United States,Americas,Online Fulfillment,Fragrance,0.9907834101382489
+US20,P461185,True,United States,Americas,Online Fulfillment,Fragrance,0.9979338842975206
+US20,P461451,True,United States,Americas,Online Fulfillment,Skincare,1.0047169811320755
+US20,P461950,False,United States,Americas,Online Fulfillment,Skincare,0.9479166666666666
+US20,P462387,False,United States,Americas,Online Fulfillment,Hair,0.9855072463768116
+US20,P463476,True,United States,Americas,Online Fulfillment,Fragrance,1.03125
+US20,P46587789,True,United States,Americas,Online Fulfillment,Makeup,1.011111111111111
+US20,P467038,True,United States,Americas,Online Fulfillment,Skincare,0.9734982332155477
+US20,P467120,True,United States,Americas,Online Fulfillment,Skincare,1.0360360360360361
+US20,P467123,True,United States,Americas,Online Fulfillment,Skincare,0.985207100591716
+US20,P467973,True,United States,Americas,Online Fulfillment,Skincare,0.9317269076305221
+US20,P468161,True,United States,Americas,Online Fulfillment,Bath & Body,0.9792284866468842
+US20,P468353,True,United States,Americas,Online Fulfillment,Makeup,1.0360824742268042
+US20,P469195,True,United States,Americas,Online Fulfillment,Hair,1.0276497695852536
+US20,P469828,True,United States,Americas,Online Fulfillment,Fragrance,0.9640287769784173
+US20,P470004,True,United States,Americas,Online Fulfillment,Makeup,0.9439655172413793
+US20,P470025,False,United States,Americas,Online Fulfillment,Makeup,0.9959839357429718
+US20,P470246,False,United States,Americas,Online Fulfillment,Skincare,0.9223300970873787
+US20,P470510,True,United States,Americas,Online Fulfillment,Skincare,0.9561752988047809
+US20,P470525,True,United States,Americas,Online Fulfillment,Fragrance,1.032640949554896
+US20,P470542,True,United States,Americas,Online Fulfillment,Makeup,0.968503937007874
+US20,P471009,True,United States,Americas,Online Fulfillment,Skincare,0.977491961414791
+US20,P471046,False,United States,Americas,Online Fulfillment,Skincare,0.989010989010989
+US20,P471076,False,United States,Americas,Online Fulfillment,Makeup,1.0
+US20,P471226,True,United States,Americas,Online Fulfillment,Skincare,0.9768211920529801
+US20,P471242,True,United States,Americas,Online Fulfillment,Makeup,0.950207468879668
+US20,P472044,True,United States,Americas,Online Fulfillment,Hair,0.9646643109540636
+US20,P472065,False,United States,Americas,Online Fulfillment,Makeup,1.003883495145631
+US20,P472317,True,United States,Americas,Online Fulfillment,Makeup,0.9956331877729258
+US20,P472452,True,United States,Americas,Online Fulfillment,Bath & Body,1.0229226361031518
+US20,P473145,True,United States,Americas,Online Fulfillment,Makeup,0.9897260273972602
+US20,P474942,True,United States,Americas,Online Fulfillment,Skincare,0.9832402234636871
+US20,P475118,False,United States,Americas,Online Fulfillment,Makeup,0.9752475247524752
+US20,P475981,True,United States,Americas,Online Fulfillment,Hair,1.0050632911392405
+US20,P476011,True,United States,Americas,Online Fulfillment,Makeup,1.0222772277227723
+US20,P476428,False,United States,Americas,Online Fulfillment,Skincare,0.9706744868035191
+US20,P476430,True,United States,Americas,Online Fulfillment,Bath & Body,0.976897689768977
+US20,P476550,True,United States,Americas,Online Fulfillment,Makeup,1.0182291666666667
+US20,P476671,True,United States,Americas,Online Fulfillment,Bath & Body,1.0180878552971577
+US20,P476690,True,United States,Americas,Online Fulfillment,Makeup,0.9731343283582089
+US20,P476697,True,United States,Americas,Online Fulfillment,Makeup,0.9693877551020408
+US20,P476865,False,United States,Americas,Online Fulfillment,Fragrance,0.9083333333333333
+US20,P477741,True,United States,Americas,Online Fulfillment,Hair,1.0934256055363323
+US20,P477822,False,United States,Americas,Online Fulfillment,Hair,1.0176470588235293
+US20,P477838,False,United States,Americas,Online Fulfillment,Makeup,1.010928961748634
+US20,P478239,True,United States,Americas,Online Fulfillment,Skincare,1.033132530120482
+US20,P479688,True,United States,Americas,Online Fulfillment,Skincare,1.002008032128514
+US20,P479829,True,United States,Americas,Online Fulfillment,Hair,1.0
+US20,P479830,True,United States,Americas,Online Fulfillment,Hair,1.0
+US20,P479969,True,United States,Americas,Online Fulfillment,Hair,1.0168674698795181
+US20,P480152,True,United States,Americas,Online Fulfillment,Hair,0.9741379310344828
+US20,P480634,True,United States,Americas,Online Fulfillment,Hair,0.9975903614457832
+US20,P480636,True,United States,Americas,Online Fulfillment,Hair,1.0204778156996588
+US20,P481103,False,United States,Americas,Online Fulfillment,Fragrance,0.8867924528301887
+US20,P481141,True,United States,Americas,Online Fulfillment,Hair,1.0107142857142857
+US20,P481370,False,United States,Americas,Online Fulfillment,Makeup,0.9929245283018868
+US20,P481396,True,United States,Americas,Online Fulfillment,Makeup,1.0287610619469028
+US20,P482509,True,United States,Americas,Online Fulfillment,Makeup,0.9607843137254902
+US20,P482755,True,United States,Americas,Online Fulfillment,Skincare,0.9873417721518988
+US20,P483474,True,United States,Americas,Online Fulfillment,Makeup,1.02803738317757
+US20,P483654,True,United States,Americas,Online Fulfillment,Makeup,1.0434782608695652
+US20,P483678,True,United States,Americas,Online Fulfillment,Fragrance,0.9817351598173516
+US20,P484052,True,United States,Americas,Online Fulfillment,Bath & Body,0.9903846153846154
+US20,P49848448,True,United States,Americas,Online Fulfillment,Makeup,1.033167495854063
+US20,P500256,False,United States,Americas,Online Fulfillment,Skincare,1.0045871559633028
+US20,P500445,True,United States,Americas,Online Fulfillment,Skincare,0.9945945945945946
+US20,P500687,True,United States,Americas,Online Fulfillment,Skincare,1.0
+US20,P500787,True,United States,Americas,Online Fulfillment,Bath & Body,0.9935064935064936
+US20,P501153,True,United States,Americas,Online Fulfillment,Skincare,0.9885714285714285
+US20,P501284,True,United States,Americas,Online Fulfillment,Makeup,1.0198019801980198
+US20,P501360,True,United States,Americas,Online Fulfillment,Fragrance,1.0104529616724738
+US20,P501435,False,United States,Americas,Online Fulfillment,Makeup,0.9750778816199377
+US20,P501493,True,United States,Americas,Online Fulfillment,Bath & Body,0.9571984435797666
+US20,P501516,False,United States,Americas,Online Fulfillment,Makeup,0.9501915708812261
+US20,P501696,True,United States,Americas,Online Fulfillment,Fragrance,1.0035714285714286
+US20,P501697,False,United States,Americas,Online Fulfillment,Fragrance,0.9543726235741445
+US20,P501721,False,United States,Americas,Online Fulfillment,Hair,0.9950738916256158
+US20,P501751,True,United States,Americas,Online Fulfillment,Skincare,0.9553571428571429
+US20,P501760,True,United States,Americas,Online Fulfillment,Skincare,1.0096153846153846
+US20,P501965,True,United States,Americas,Online Fulfillment,Fragrance,1.0
+US20,P502068,True,United States,Americas,Online Fulfillment,Hair,0.977728285077951
+US20,P502186,False,United States,Americas,Online Fulfillment,Skincare,0.9273504273504274
+US20,P502252,True,United States,Americas,Online Fulfillment,Hair,0.9318181818181818
+US20,P502289,True,United States,Americas,Online Fulfillment,Makeup,1.040909090909091
+US20,P502306,True,United States,Americas,Online Fulfillment,Makeup,1.036
+US20,P502866,True,United States,Americas,Online Fulfillment,Makeup,0.9981132075471698
+US20,P503206,True,United States,Americas,Online Fulfillment,Fragrance,1.024390243902439
+US20,P503762,True,United States,Americas,Online Fulfillment,Makeup,0.9811320754716981
+US20,P503857,False,United States,Americas,Online Fulfillment,Fragrance,0.9779411764705882
+US20,P504044,True,United States,Americas,Online Fulfillment,Skincare,0.9709090909090909
+US20,P504064,True,United States,Americas,Online Fulfillment,Skincare,0.9800399201596807
+US20,P504159,True,United States,Americas,Online Fulfillment,Bath & Body,0.9808612440191388
+US20,P504281,True,United States,Americas,Online Fulfillment,Fragrance,0.958041958041958
+US20,P504285,True,United States,Americas,Online Fulfillment,Fragrance,0.9172413793103448
+US20,P504364,True,United States,Americas,Online Fulfillment,Fragrance,0.9921465968586387
+US20,P504519,True,United States,Americas,Online Fulfillment,Bath & Body,0.9701492537313433
+US20,P504789,False,United States,Americas,Online Fulfillment,Makeup,0.9820717131474104
+US20,P504794,True,United States,Americas,Online Fulfillment,Skincare,0.9545454545454546
+US20,P504841,True,United States,Americas,Online Fulfillment,Hair,0.9904458598726115
+US20,P505041,True,United States,Americas,Online Fulfillment,Makeup,0.972972972972973
+US20,P505250,True,United States,Americas,Online Fulfillment,Makeup,0.9615384615384616
+US20,P54433,True,United States,Americas,Online Fulfillment,Makeup,0.9223744292237442
+US20,P6463,True,United States,Americas,Online Fulfillment,Fragrance,1.0236220472440944
+US20,P76000,True,United States,Americas,Online Fulfillment,Fragrance,0.9588014981273408
+US20,P7844,True,United States,Americas,Online Fulfillment,Bath & Body,0.9292307692307692
+US20,P91627362,True,United States,Americas,Online Fulfillment,Skincare,1.0068181818181818

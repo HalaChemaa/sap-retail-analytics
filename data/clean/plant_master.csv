@@ -1,0 +1,9 @@
+plant_id,country,region,channel
+FR10,France,Europe,Flagship Retail
+FR90,France,Europe,Distribution Center
+UK10,United Kingdom,Europe,Retail
+DE10,Germany,Europe,Retail
+US10,United States,Americas,Retail
+US20,United States,Americas,Online Fulfillment
+AE10,United Arab Emirates,Middle East,Travel Retail
+MA10,Morocco,Middle East & Africa,Retail

@@ -1,0 +1,18 @@
+DATA CLEANING REPORT
+=================================================================
+Sales orders raw rows read:        67346
+Sales orders clean rows loaded:    66351
+Stock movements raw rows read:     106353
+Stock movements clean rows loaded: 103098
+-----------------------------------------------------------------
+sales_orders_exact_duplicates_removed           : 995
+sales_orders_invalid_plant_id                   : 0
+sales_orders_channel_unmapped                   : 0
+sales_orders_unparseable_dates                  : 0
+sales_orders_missing_discount_defaulted_zero    : 4697
+sales_orders_negative_quantity_fixed            : 664
+stock_movements_exact_duplicates_removed        : 1053
+stock_movements_invalid_plant_id                : 0
+stock_movements_type_unmapped                   : 0
+stock_movements_unparseable_dates               : 0
+stock_movements_missing_quantity_dropped        : 2202
